@@ -1,5 +1,7 @@
 use('shelterdb')
 
+
+
 /*db.shelters.aggregate([
 {$project:{
     "properties.saeson_k":0,
