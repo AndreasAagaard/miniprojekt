@@ -44,12 +44,16 @@ use('shelterdb')
     {$out:"shelter_minus"}
 ])*/
 
-//db.shelter_minus.renameCollection('shelter')
+db.shelters.renameCollection('shelter')
 
-db.shelter.aggregate(
-   [
-      { $set: { 'properties.antal_pl': { $multiply: [ { $rand: {} }, 10 ] } } },
-      { $set: { 'properties.antal_pl': { $ceil: "$properties.antal_pl" } } },
-      { $merge: "shelter" }
-   ]
-)
+// db.shelter.aggregate(
+//    [
+//       { $set: { 'properties.antal_pl': { $multiply: [ { $rand: {} }, 10 ] } } },
+//       { $set: { 'properties.antal_pl': { $ceil: "$properties.antal_pl" } } },
+//       { $merge: "shelter" }
+//    ]
+// )
+// db.shelter.aggregate([
+//   {$match: {"properties.facil_ty": "Shelter"}},
+//   {$out: "shelters"}
+// ]);

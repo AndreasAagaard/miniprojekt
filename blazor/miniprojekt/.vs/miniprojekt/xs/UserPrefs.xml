@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{31C7E837-733C-404D-BD8E-B079ED784583}|Default">
+  <MonoDevelop.Ide.ItemProperties.miniprojekt.Client FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="miniprojekt/Server/Controllers/ShelterController.cs">
+    <Files>
+      <File FileName="miniprojekt/Server/Controllers/ShelterController.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="miniprojekt" expanded="True">
+            <Node name="miniprojekt.Client" expanded="True">
+              <Node name="Shared" expanded="True" />
+            </Node>
+            <Node name="miniprojekt.Server" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="ShelterController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.miniprojekt.Server FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.miniprojekt.Shared FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
