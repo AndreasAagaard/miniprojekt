@@ -2,53 +2,32 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using MongoDB.Bson;
+using MongoDB.Bson.Serialization.Attributes;
 
 namespace miniprojekt.Client.Shared
 {
     public class Booking
     {
-        private string _id;
-        private DateTime startdate;
-        private DateTime slutdate;
-        private int antal_pers;
-        private string shelter_id;
-        private string bruger_id;
+        [BsonId]
+        [BsonRepresentation(BsonType.ObjectId)]
+        public string _id { get; set; }
+        private DateTime startdate { get; set; }
+        private DateTime slutdate { get; set; }
+        private int antal_pers { get; set; }
+        private string shelter_id { get; set; }
+        private string bruger_id { get; set; }
 
 
-        public Booking()
-        {
 
-        }
-
-        public string Id
+        public Booking(string Id, DateTime Startdate, DateTime Slutdate, int Antal_pers, string Shelter_id, string Bruger_id)
         {
-            get { return _id; }
-            set { _id = value; }
-        }
-        public DateTime Startdate
-        {
-            get { return startdate; }
-            set { startdate = value; }
-        }
-        public DateTime Slutdate
-        {
-            get { return slutdate; }
-            set { slutdate = value; }
-        }
-        public int Antal_pers
-        {
-            get { return antal_pers; }
-            set { antal_pers = value; }
-        }
-        public string Shelter_id
-        {
-            get { return shelter_id; }
-            set { shelter_id = value; }
-        }
-        public string Bruger_id
-        {
-            get { return bruger_id; }
-            set { bruger_id = value; }
+            _id = Id;
+            startdate = Startdate;
+            slutdate = Slutdate;
+            antal_pers = Antal_pers;
+            shelter_id = Shelter_id;
+            bruger_id = Bruger_id;
         }
 
 
