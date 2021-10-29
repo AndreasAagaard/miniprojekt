@@ -1,0 +1,2774 @@
+[{
+  "_id": {
+    "$oid": "61767c561f200fe26b738056"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.1138908206156,
+        56.1402035054648
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "996d7ff4-154a-11ec-954f-0661a94bd4ab",
+    "versions_id": "996d7d6a-154a-11ec-954e-0661a94bd4ab",
+    "systid_fra": "2021-09-14 12:57:48.546609+02",
+    "systid_til": null,
+    "oprettet": "2021-09-14 12:57:48.546609+02",
+    "cvr_kode": 55133018,
+    "cvr_navn": "Aarhus Kommune",
+    "kommunekode": 751,
+    "bruger_id": "751",
+    "oprindkode": 1,
+    "oprindelse": "Ortofoto",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Shelterplads i Stavtrup",
+    "beskrivels": null,
+    "lang_beskr": null,
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+    "ansvar_org": null,
+    "kontak_ved": null,
+    "handicap_k": null,
+    "handicap": null,
+    "antal_pl": 8,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": null,
+    "ansva_v": null,
+    "link": "http://friluftslivaarhus.dk"
+  }
+},{
+  "_id": {
+    "$oid": "61767c561f200fe26b73805d"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.3058187109953,
+        56.2533536780254
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "9cb35d33-7d5e-408b-b6c5-23166b1951e1",
+    "versions_id": "bc50c470-8abf-11ea-a125-062b96cbb5a0",
+    "systid_fra": "2020-04-30 10:50:55.734931+02",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 55133018,
+    "cvr_navn": "Aarhus Kommune",
+    "kommunekode": 751,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Shelterplads Skødstrup Søndersø                   ",
+    "beskrivels": "Shelterplads med 2 shelters og bålplads                                                                                                                                                                                                                       ",
+    "lang_beskr": "Shelterplads med 2 shelters med hver plads til 4-6 personer, beliggende i den sydlige ende af Skødstrup. Pladsen har er stor græsareal og en mindre bålplads, og ligger i nærheden af Skødstrup Søndersø. Reservation er ikke muligt.",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Til faciliteter uden organisation                                                                                                                                                                                                                             ",
+    "kontak_ved": ", ",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 4,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 9,
+    "ansva_v": "Ukendt",
+    "link": "                                                                                                                                                                                                                                                               "
+  }
+},{
+  "_id": {
+    "$oid": "61767c561f200fe26b738062"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.1694600340565,
+        56.2354309658486
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "157c61a2-9c0a-11ea-b228-062b96cbb5a0",
+    "versions_id": "6d6710b4-9f3f-11ea-bf8f-06f2586f84aa",
+    "systid_fra": "2020-05-26 12:55:10.407918+02",
+    "systid_til": null,
+    "oprettet": "2020-05-22 10:56:11.202333+02",
+    "cvr_kode": 55133018,
+    "cvr_navn": "Aarhus Kommune",
+    "kommunekode": 751,
+    "bruger_id": "751",
+    "oprindkode": 1,
+    "oprindelse": "Ortofoto",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Shelter i Lisbjerg gammel skov",
+    "beskrivels": null,
+    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": null,
+    "kontak_ved": null,
+    "handicap_k": null,
+    "handicap": null,
+    "antal_pl": 8,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": null,
+    "ansva_v": null,
+    "link": "http://friluftslivaarhus.dk/"
+  }
+},{
+  "_id": {
+    "$oid": "61767c561f200fe26b738063"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.1975061753891,
+        56.0665749345383
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "157f1c30-9c0a-11ea-b236-062b96cbb5a0",
+    "versions_id": "6d748a28-9f3f-11ea-bf91-06f2586f84aa",
+    "systid_fra": "2020-05-26 12:55:10.407918+02",
+    "systid_til": null,
+    "oprettet": "2020-05-22 10:56:11.202333+02",
+    "cvr_kode": 55133018,
+    "cvr_navn": "Aarhus Kommune",
+    "kommunekode": 751,
+    "bruger_id": "751",
+    "oprindkode": 1,
+    "oprindelse": "Ortofoto",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Shelter i Vilhelmsborg Skov",
+    "beskrivels": null,
+    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": null,
+    "kontak_ved": null,
+    "handicap_k": null,
+    "handicap": null,
+    "antal_pl": 7,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": null,
+    "ansva_v": null,
+    "link": "http://friluftslivaarhus.dk/"
+  }
+},{
+  "_id": {
+    "$oid": "61767c561f200fe26b738064"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.2277139371157,
+        56.0974080157968
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "157e74b0-9c0a-11ea-b232-062b96cbb5a0",
+    "versions_id": "a702c6d0-9f42-11ea-9495-06f2586f84aa",
+    "systid_fra": "2020-05-26 13:18:40.284954+02",
+    "systid_til": null,
+    "oprettet": "2020-05-22 10:56:11.202333+02",
+    "cvr_kode": 55133018,
+    "cvr_navn": "Aarhus Kommune",
+    "kommunekode": 751,
+    "bruger_id": "751",
+    "oprindkode": 1,
+    "oprindelse": "Ortofoto",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Shelter i Moesgård Skov",
+    "beskrivels": null,
+    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": null,
+    "kontak_ved": null,
+    "handicap_k": null,
+    "handicap": null,
+    "antal_pl": 10,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": null,
+    "ansva_v": null,
+    "link": "http://friluftslivaarhus.dk/"
+  }
+},{
+  "_id": {
+    "$oid": "61767c561f200fe26b738065"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.2673640974013,
+        56.0519769513015
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "15838a7c-9c0a-11ea-b248-062b96cbb5a0",
+    "versions_id": "6cee069c-9f3f-11ea-bf7d-06f2586f84aa",
+    "systid_fra": "2020-05-26 12:55:10.407918+02",
+    "systid_til": null,
+    "oprettet": "2020-05-22 10:56:11.202333+02",
+    "cvr_kode": 55133018,
+    "cvr_navn": "Aarhus Kommune",
+    "kommunekode": 751,
+    "bruger_id": "751",
+    "oprindkode": 1,
+    "oprindelse": "Ortofoto",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Shelter ved Mariendal Strand",
+    "beskrivels": null,
+    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": null,
+    "kontak_ved": null,
+    "handicap_k": null,
+    "handicap": null,
+    "antal_pl": 1,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": null,
+    "ansva_v": null,
+    "link": "http://friluftslivaarhus.dk/"
+  }
+},{
+  "_id": {
+    "$oid": "61767c561f200fe26b738066"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.1832491190344,
+        56.1868089835271
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "157e24c4-9c0a-11ea-b230-062b96cbb5a0",
+    "versions_id": "6cf4eb4c-9f3f-11ea-bf7e-06f2586f84aa",
+    "systid_fra": "2020-05-26 12:55:10.407918+02",
+    "systid_til": null,
+    "oprettet": "2020-05-22 10:56:11.202333+02",
+    "cvr_kode": 55133018,
+    "cvr_navn": "Aarhus Kommune",
+    "kommunekode": 751,
+    "bruger_id": "751",
+    "oprindkode": 1,
+    "oprindelse": "Ortofoto",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Shelter på Vestereng",
+    "beskrivels": null,
+    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": null,
+    "kontak_ved": null,
+    "handicap_k": null,
+    "handicap": null,
+    "antal_pl": 9,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": null,
+    "ansva_v": null,
+    "link": "http://friluftslivaarhus.dk/"
+  }
+},{
+  "_id": {
+    "$oid": "61767c561f200fe26b738067"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.220276878772,
+        56.2136039921625
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "1581c962-9c0a-11ea-b242-062b96cbb5a0",
+    "versions_id": "6d0273f2-9f3f-11ea-bf80-06f2586f84aa",
+    "systid_fra": "2020-05-26 12:55:10.407918+02",
+    "systid_til": null,
+    "oprettet": "2020-05-22 10:56:11.202333+02",
+    "cvr_kode": 55133018,
+    "cvr_navn": "Aarhus Kommune",
+    "kommunekode": 751,
+    "bruger_id": "751",
+    "oprindkode": 1,
+    "oprindelse": "Ortofoto",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Shelterplads ved Egå Engsø¸ - fem stk.",
+    "beskrivels": null,
+    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": null,
+    "kontak_ved": null,
+    "handicap_k": null,
+    "handicap": null,
+    "antal_pl": 10,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": null,
+    "ansva_v": null,
+    "link": "http://friluftslivaarhus.dk/"
+  }
+},{
+  "_id": {
+    "$oid": "61767c561f200fe26b738068"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.2301761302999,
+        56.2392579795894
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "15833b4e-9c0a-11ea-b246-062b96cbb5a0",
+    "versions_id": "6d0fdab0-9f3f-11ea-bf82-06f2586f84aa",
+    "systid_fra": "2020-05-26 12:55:10.407918+02",
+    "systid_til": null,
+    "oprettet": "2020-05-22 10:56:11.202333+02",
+    "cvr_kode": 55133018,
+    "cvr_navn": "Aarhus Kommune",
+    "kommunekode": 751,
+    "bruger_id": "751",
+    "oprindkode": 1,
+    "oprindelse": "Ortofoto",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Madpakkehus i Æblehaven",
+    "beskrivels": null,
+    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": null,
+    "kontak_ved": null,
+    "handicap_k": null,
+    "handicap": null,
+    "antal_pl": 5,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": null,
+    "ansva_v": null,
+    "link": "http://friluftslivaarhus.dk/"
+  }
+},{
+  "_id": {
+    "$oid": "61767c561f200fe26b738069"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.2302168695005,
+        56.1135680376493
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "157ec41a-9c0a-11ea-b234-062b96cbb5a0",
+    "versions_id": "6d1d954c-9f3f-11ea-bf84-06f2586f84aa",
+    "systid_fra": "2020-05-26 12:55:10.407918+02",
+    "systid_til": null,
+    "oprettet": "2020-05-22 10:56:11.202333+02",
+    "cvr_kode": 55133018,
+    "cvr_navn": "Aarhus Kommune",
+    "kommunekode": 751,
+    "bruger_id": "751",
+    "oprindkode": 1,
+    "oprindelse": "Ortofoto",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Dagshelter i Hørhaven",
+    "beskrivels": null,
+    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": null,
+    "kontak_ved": null,
+    "handicap_k": null,
+    "handicap": null,
+    "antal_pl": 8,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": null,
+    "ansva_v": null,
+    "link": "http://friluftslivaarhus.dk/"
+  }
+},{
+  "_id": {
+    "$oid": "61767c561f200fe26b73806a"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.227179945693,
+        56.114670007543
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "157bed08-9c0a-11ea-b226-062b96cbb5a0",
+    "versions_id": "6d2b6532-9f3f-11ea-bf86-06f2586f84aa",
+    "systid_fra": "2020-05-26 12:55:10.407918+02",
+    "systid_til": null,
+    "oprettet": "2020-05-22 10:56:11.202333+02",
+    "cvr_kode": 55133018,
+    "cvr_navn": "Aarhus Kommune",
+    "kommunekode": 751,
+    "bruger_id": "751",
+    "oprindkode": 1,
+    "oprindelse": "Ortofoto",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Shelter i Hørhaven i skoven",
+    "beskrivels": null,
+    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": null,
+    "kontak_ved": null,
+    "handicap_k": null,
+    "handicap": null,
+    "antal_pl": 6,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": null,
+    "ansva_v": null,
+    "link": "http://friluftslivaarhus.dk/"
+  }
+},{
+  "_id": {
+    "$oid": "61767c561f200fe26b73806c"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.2444149091573,
+        56.0883729513367
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "157d058a-9c0a-11ea-b22a-062b96cbb5a0",
+    "versions_id": "6d38ccf4-9f3f-11ea-bf88-06f2586f84aa",
+    "systid_fra": "2020-05-26 12:55:10.407918+02",
+    "systid_til": null,
+    "oprettet": "2020-05-22 10:56:11.202333+02",
+    "cvr_kode": 55133018,
+    "cvr_navn": "Aarhus Kommune",
+    "kommunekode": 751,
+    "bruger_id": "751",
+    "oprindkode": 1,
+    "oprindelse": "Ortofoto",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Shelter ved Moesgård Strand",
+    "beskrivels": null,
+    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": null,
+    "kontak_ved": null,
+    "handicap_k": null,
+    "handicap": null,
+    "antal_pl": 9,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": null,
+    "ansva_v": null,
+    "link": "http://friluftslivaarhus.dk/"
+  }
+},{
+  "_id": {
+    "$oid": "61767c561f200fe26b73806e"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.2294949927686,
+        56.1128799746459
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "157dca1a-9c0a-11ea-b22e-062b96cbb5a0",
+    "versions_id": "6d46009a-9f3f-11ea-bf8a-06f2586f84aa",
+    "systid_fra": "2020-05-26 12:55:10.407918+02",
+    "systid_til": null,
+    "oprettet": "2020-05-22 10:56:11.202333+02",
+    "cvr_kode": 55133018,
+    "cvr_navn": "Aarhus Kommune",
+    "kommunekode": 751,
+    "bruger_id": "751",
+    "oprindkode": 1,
+    "oprindelse": "Ortofoto",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Shelter i Hørhaven på bakken",
+    "beskrivels": null,
+    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": null,
+    "kontak_ved": null,
+    "handicap_k": null,
+    "handicap": null,
+    "antal_pl": 9,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": null,
+    "ansva_v": null,
+    "link": "http://friluftslivaarhus.dk/"
+  }
+},{
+  "_id": {
+    "$oid": "61767c561f200fe26b738072"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.1422530421788,
+        56.1504079630261
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "157a05a6-9c0a-11ea-b224-062b96cbb5a0",
+    "versions_id": "6d605d64-9f3f-11ea-bf8e-06f2586f84aa",
+    "systid_fra": "2020-05-26 12:55:10.407918+02",
+    "systid_til": null,
+    "oprettet": "2020-05-22 10:56:11.202333+02",
+    "cvr_kode": 55133018,
+    "cvr_navn": "Aarhus Kommune",
+    "kommunekode": 751,
+    "bruger_id": "751",
+    "oprindkode": 1,
+    "oprindelse": "Ortofoto",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Shelter i Gjellerup Skov",
+    "beskrivels": null,
+    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": null,
+    "kontak_ved": null,
+    "handicap_k": null,
+    "handicap": null,
+    "antal_pl": 4,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": null,
+    "ansva_v": null,
+    "link": "http://friluftslivaarhus.dk/"
+  }
+},{
+  "_id": {
+    "$oid": "61767c561f200fe26b7380cd"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.1618161804432,
+        56.1841560048164
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "157f69ba-9c0a-11ea-b238-062b96cbb5a0",
+    "versions_id": "6cd2ea60-9f3f-11ea-bf79-06f2586f84aa",
+    "systid_fra": "2020-05-26 12:55:10.407918+02",
+    "systid_til": null,
+    "oprettet": "2020-05-22 10:56:11.202333+02",
+    "cvr_kode": 55133018,
+    "cvr_navn": "Aarhus Kommune",
+    "kommunekode": 751,
+    "bruger_id": "751",
+    "oprindkode": 1,
+    "oprindelse": "Ortofoto",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Shelter i Brendstrup Skov",
+    "beskrivels": null,
+    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": null,
+    "kontak_ved": null,
+    "handicap_k": null,
+    "handicap": null,
+    "antal_pl": 9,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": null,
+    "ansva_v": null,
+    "link": "http://friluftslivaarhus.dk/"
+  }
+},{
+  "_id": {
+    "$oid": "61767c561f200fe26b7380ce"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.1717740730878,
+        56.2268179774504
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "1582ea72-9c0a-11ea-b244-062b96cbb5a0",
+    "versions_id": "6cd9a1f2-9f3f-11ea-bf7a-06f2586f84aa",
+    "systid_fra": "2020-05-26 12:55:10.407918+02",
+    "systid_til": null,
+    "oprettet": "2020-05-22 10:56:11.202333+02",
+    "cvr_kode": 55133018,
+    "cvr_navn": "Aarhus Kommune",
+    "kommunekode": 751,
+    "bruger_id": "751",
+    "oprindkode": 1,
+    "oprindelse": "Ortofoto",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Shelterplads i Lisbjerg ny skov - fem stk.",
+    "beskrivels": null,
+    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": null,
+    "kontak_ved": null,
+    "handicap_k": null,
+    "handicap": null,
+    "antal_pl": 6,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": null,
+    "ansva_v": null,
+    "link": "http://friluftslivaarhus.dk/"
+  }
+},{
+  "_id": {
+    "$oid": "61767c561f200fe26b7380cf"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.1141968502786,
+        56.0959056907147
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "b28c6e2c-5575-11eb-8f02-06d09fa510f4",
+    "versions_id": "b28c6c2e-5575-11eb-8f01-06d09fa510f4",
+    "systid_fra": "2021-01-13 09:02:35.810515+01",
+    "systid_til": null,
+    "oprettet": "2021-01-13 09:02:35.810515+01",
+    "cvr_kode": 55133018,
+    "cvr_navn": "Aarhus Kommune",
+    "kommunekode": 751,
+    "bruger_id": "751",
+    "oprindkode": 1,
+    "oprindelse": "Ortofoto",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Shelterplads i Tranbjerg Skov",
+    "beskrivels": null,
+    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": null,
+    "kontak_ved": null,
+    "handicap_k": 9,
+    "handicap": "Ukendt",
+    "antal_pl": 5,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 2,
+    "ansva_v": "Kommune",
+    "link": "http://friluftslivaarhus.dk/"
+  }
+},{
+  "_id": {
+    "$oid": "61767c561f200fe26b7380d1"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.2027370112491,
+        56.206293019122
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "157d6d86-9c0a-11ea-b22c-062b96cbb5a0",
+    "versions_id": "30576da0-ee80-11ea-8a10-06d09fa510f4",
+    "systid_fra": "2020-09-04 09:28:11.965784+02",
+    "systid_til": null,
+    "oprettet": "2020-05-22 10:56:11.202333+02",
+    "cvr_kode": 55133018,
+    "cvr_navn": "Aarhus Kommune",
+    "kommunekode": 751,
+    "bruger_id": "751",
+    "oprindkode": 1,
+    "oprindelse": "Ortofoto",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Shelter i Mollerup Skov",
+    "beskrivels": null,
+    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": null,
+    "kontak_ved": null,
+    "handicap_k": null,
+    "handicap": null,
+    "antal_pl": 8,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": null,
+    "ansva_v": null,
+    "link": "http://friluftslivaarhus.dk/"
+  }
+},{
+  "_id": {
+    "$oid": "61767c561f200fe26b7380d2"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.0209340226472,
+        56.1283319644944
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "1584895e-9c0a-11ea-b24a-062b96cbb5a0",
+    "versions_id": "b293e72e-5575-11eb-8f03-06d09fa510f4",
+    "systid_fra": "2021-01-13 09:02:35.810515+01",
+    "systid_til": null,
+    "oprettet": "2020-05-22 10:56:11.202333+02",
+    "cvr_kode": 55133018,
+    "cvr_navn": "Aarhus Kommune",
+    "kommunekode": 751,
+    "bruger_id": "751",
+    "oprindkode": 1,
+    "oprindelse": "Ortofoto",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Åbo Skov, 2 shelters",
+    "beskrivels": null,
+    "lang_beskr": "Shelter skal bookes via friluftslivaarhus.dk",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": null,
+    "kontak_ved": null,
+    "handicap_k": 9,
+    "handicap": "Ukendt",
+    "antal_pl": 7,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 2,
+    "ansva_v": "Kommune",
+    "link": "http://friluftslivaarhus.dk/"
+  }
+},{
+  "_id": {
+    "$oid": "61767c7d1f200fe26b7380e2"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.4314615171972,
+        55.9471746956485
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "85187510-45ac-415d-b670-9aec9547252d",
+    "versions_id": "f096bce6-8abd-11ea-abb9-062b96cbb5a0",
+    "systid_fra": "2020-04-30 10:38:05.947495+02",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 32264328,
+    "cvr_navn": "Odder Kommune",
+    "kommunekode": 727,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Shelter                                           ",
+    "beskrivels": "Shelter med bord/bænkesæt                                                                                                                                                                                                                                     ",
+    "lang_beskr": "Shelteret er privat, men står til fri afbenyttelse for friluftsgæsten. Der er ingen reservationsmuligheder. Man skal dog huske på, at shelteret har plads til 8 personer og, at man dermed ikke kan afvise andre besøgende før fuld kapacitet er nået.",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Odder Kommune                                                                                                                                                                                                                                                 ",
+    "kontak_ved": "miljoe@odder.dk, 87803333                 ",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 9,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 2,
+    "ansva_v": "Kommune",
+    "link": "                                                                                                                                                                                                                                                               "
+  }
+},{
+  "_id": {
+    "$oid": "61767c7d1f200fe26b7380fe"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.1639954853744,
+        55.8914206833214
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "2031c494-2dbb-4b6d-8ad2-b60563838780",
+    "versions_id": "ca67b5c8-8abf-11ea-80fd-062b96cbb5a0",
+    "systid_fra": "2020-04-30 10:51:23.409037+02",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 32264328,
+    "cvr_navn": "Odder Kommune",
+    "kommunekode": 727,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Shelterplads                                      ",
+    "beskrivels": "2 shelters med plads til ca. 7 personer i hver. Plads med mulighed for bål,  Ligger i udkanten af Gylling by.                                                                                                                                                 ",
+    "lang_beskr": "Shelterpladsen ligger ved Kirken i udkanten af Gylling by. Shelterpladsen har 2 shelters med plads til omkring 7 personer i hver. Der er mulighed for at lave bål, men der er ingen brænde på pladsen. Vand og toiletter findes ved kirken. \nSørg for at efterlade pladsen opryddet og i god stand.\nPladsen er kun til brug til overnatning ved tur. Pladsen må ikke bruges til arrangementer, fester, lejrslagning e.lign.\nPladsen ejes og vedligholdes af Gylling Efterskole - ved spørgsmål kan der ringes til tlf. 28446127.",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Til faciliteter uden organisation                                                                                                                                                                                                                             ",
+    "kontak_ved": ", ",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 8,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 9,
+    "ansva_v": "Ukendt",
+    "link": "                                                                                                                                                                                                                                                               "
+  }
+},{
+  "_id": {
+    "$oid": "61767c7d1f200fe26b738100"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.1405273878013,
+        55.9901119846842
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "3af9fc9a-c607-4003-974a-9f6430a3299c",
+    "versions_id": "1123ae64-dc8b-11ea-a120-06d09fa510f4",
+    "systid_fra": "2020-08-12 13:00:43.375916+02",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 32264328,
+    "cvr_navn": "Odder Kommune",
+    "kommunekode": 727,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Bisgårdskoven shelter                             ",
+    "beskrivels": "Primitiv overnatning i shelter                                                                                                                                                                                                                                ",
+    "lang_beskr": "Bynær shelter beliggende i Bisgårsskoven i Odder. Der er bålplads, som kan benyttes, hvis du selv medbringer træ. Der er ikke mulighed for at slå telt op på pladsen.\n\nBisgårdsskoven ligger i den nordlige del af Odder. Her kan man befinde sig midt i naturen, men samtidig tæt byens liv og indkøbsmuligheder. I Bisgårdsskoven ligger også en nyopført mountainbike-bane på 2,5 kilometer.",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Odder Kommune",
+    "kontak_ved": "odder.kommune@odder.dk, 87 80 33 33",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 9,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 2,
+    "ansva_v": "Kommune",
+    "link": "                                                                                                                                                                                                                                                               "
+  }
+},{
+  "_id": {
+    "$oid": "61767c7d1f200fe26b73811a"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.0402931516304,
+        55.9758515574376
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "47a58c09-89c4-4e9a-a44e-34abad6f57a2",
+    "versions_id": "1de37c92-e14a-11ea-b0cc-06d09fa510f4",
+    "systid_fra": "2020-08-18 13:58:23.319582+02",
+    "systid_til": null,
+    "oprettet": "2020-08-18 13:58:23.319582+02",
+    "cvr_kode": 32264328,
+    "cvr_navn": "Odder Kommune",
+    "kommunekode": 727,
+    "bruger_id": "Merete Johannsen",
+    "oprindkode": 7,
+    "oprindelse": "Felt-/markbesøg",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Eventyrskoven",
+    "beskrivels": null,
+    "lang_beskr": null,
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Odder Kommune",
+    "kontak_ved": "odder.kommune@odder.dk, 87 80 33 33",
+    "handicap_k": 1,
+    "handicap": "Handicapegnet",
+    "antal_pl": 2,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 1,
+    "ansva_v": "Privat/forening",
+    "link": null
+  }
+},{
+  "_id": {
+    "$oid": "61767c8d1f200fe26b738123"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        9.68502664241252,
+        56.2087067989579
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "a7bb92aa-7a82-4234-855f-83635e01d691",
+    "versions_id": "e266259c-df05-11eb-9df6-06d09fa510f4",
+    "systid_fra": "2021-07-07 11:29:52.872805+02",
+    "systid_til": null,
+    "oprettet": "2021-07-07 11:29:52.872805+02",
+    "cvr_kode": 29189641,
+    "cvr_navn": "Silkeborg Kommune",
+    "kommunekode": 740,
+    "bruger_id": "Poul Erik Thystrup",
+    "oprindkode": 7,
+    "oprindelse": "Felt-/markbesøg",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Hampknold i Sminge Plantage",
+    "beskrivels": "Primitiv overnatnings plads med et shelter",
+    "lang_beskr": "<p>Shelter og lille bålsted ved udsigtspunktet Hampknold i Sminge Plantage. Der er ikke vand på stedet og ej heller toilet.</p><p>Shelteret kan bookes via Silkeborg Kommunes fritidsportal: <a href=\"https://fritidsportalen.silkeborg.dk/default.asp?wkid=10023&navid=1\" rel=\"noopener noreferrer\" target=\"_blank\">https://fritidsportalen.silkeborg.dk/default.asp?wkid=10023&navid=1</a></p>",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Silkeborg Kommune",
+    "kontak_ved": "kommunen@silkeborg.dk, 89 70 10 00",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 6,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 2,
+    "ansva_v": "Kommune",
+    "link": null
+  }
+},{
+  "_id": {
+    "$oid": "61767c8d1f200fe26b738124"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        9.74443191566052,
+        56.275726810797
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "f42059bd-5b0d-49ca-8472-91f8dec71ba1",
+    "versions_id": "31a23618-df07-11eb-87e4-06d09fa510f4",
+    "systid_fra": "2021-07-07 11:39:15.152807+02",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 29189641,
+    "cvr_navn": "Silkeborg Kommune",
+    "kommunekode": 740,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Primitiv overnatningsplads ved Skorup             ",
+    "beskrivels": "Overnatningsplads ved Gjernbanen",
+    "lang_beskr": "<p><strong>Dansk:</strong></p><p>Lille, hyggelig overnatningsplads ved Gjernbanen, Skorup lidt nord for Fårvang.</p><p>Pladsen er indrettet med shelter, tørkloset, bålsted m. grillrist samt drikkevand fra egen boring, gammeldags vandpost.</p><p>Gode læforhold. Plads til et par mindre telte.</p><p>Pladsen kan  bookes via Silkeborg Kommunes fritidsportal:</p><p><a href=\"https://fritidsportalen.silkeborg.dk/default.asp?wkid=10023&navid=1\" rel=\"noopener noreferrer\" target=\"_blank\">https://fritidsportalen.silkeborg.dk/default.asp?wkid=10023&navid=1</a></p><p><br></p><p><br></p><p><strong>English:</strong></p><p>Pleasant minor shelter site equipped with privy, fire ring with a barbecue and drinking water from a private drilling with an old fashioned water pump.</p><p>The site offers excellent shelter for the wind and you will find additional room for a couple of small tents.</p><p>The site can not bee booked.</p><p><br></p><p><strong>Deutsch:</strong></p><p>Primitiver Naturlagerplatz bei Skorup.</p><p>Kleiner, gemütlicher Naturlagerplatz bei Gjernbanen, Skorup nördlich von Fårvang.</p>",
+    "uk_k_beskr": "Pleasant minor shelter site",
+    "uk_l_beskr": "<p>Pleasant minor shelter site equipped with privy, fire ring with a barbecue and drinking water from a private drilling with an old fashioned water pump.</p><p><br></p><p>The site offers excellent shelter for the wind and you will find additional room for a couple of small tents.</p><p><br></p><p>The site can not bee booked.</p>",
+    "d_k_beskr": "Primitiver Naturlagerplatz bei Skorup.",
+    "d_l_beskr": "<p>Kleiner, gemütlicher Naturlagerplatz bei Gjernbanen, Skorup nördlich von Fårvang. </p><p><br></p><p>Der Platz ist mit Unterständen, Trockentoilette, Feuerstelle mit Grillrost und Quellwasser mit altertümlicher Wasserpumpe. </p><p><br></p><p>Der Platz ist vor Wind geschützt und bietet Raum für ein paar kleinere Zelte. </p><p><br></p><p>Der Platz kann nicht reserviert werden.</p>",
+    "ansvar_org": "Silkeborg Kommune                                                                                                                                                                                                                                             ",
+    "kontak_ved": "natur@silkeborg.dk, 89701000",
+    "handicap_k": 1,
+    "handicap": "Handicapegnet",
+    "antal_pl": 7,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 2,
+    "ansva_v": "Kommune",
+    "link": "                                                                                                                                                                                                                                                               "
+  }
+},{
+  "_id": {
+    "$oid": "61767c8d1f200fe26b738125"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        9.71338281945715,
+        56.2179303671257
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "322c9871-ddd8-4173-9191-6d7b94e31829",
+    "versions_id": "0c522912-df08-11eb-97f1-06d09fa510f4",
+    "systid_fra": "2021-07-07 11:45:22.374242+02",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 29189641,
+    "cvr_navn": "Silkeborg Kommune",
+    "kommunekode": 740,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Primitiv overnatningsplads ved Lille Amerika      ",
+    "beskrivels": "Overnatningsplads ved Gjernbanen og kommuneskov",
+    "lang_beskr": "<p><strong>Dansk:</strong></p><p>Lille, hyggelig plads i den kommunalt ejede Amerika Plantage, tæt ved Gjernbanen. Pladsen er forsynet med shelter, bålplads og bord- og bænkesæt.</p><p>Ca. 150 m fra pladsen er der en drikkevandsboring, som er forsynet med gammeldags vandpost. Samme sted findes et multtoilet.</p><p>Shelteret kan bookes via Silkeborg Kommunes fritidsportal: </p><p><a href=\"https://fritidsportalen.silkeborg.dk/default.asp?wkid=10023&navid=1\" rel=\"noopener noreferrer\" target=\"_blank\">https://fritidsportalen.silkeborg.dk/default.asp?wkid=10023&navid=1</a></p><p><br></p><p><strong>English:</strong></p><p>Shelter site close to the old rail road track in the municipal wood.</p><p>Pleasant minor shelter site located in the municipally owed plantation Amerika Plantage. The site is equipped with a shelter and a fire ring as well as a tabel with benches.</p><p>At approximately 150 meters away you will find drinking water from an old fashioned water pump and a privy.</p><p><br></p><p><strong>Deutsch:</strong></p><p>Primitiver Übernachtungsplatz bei Lille Amerika.</p><p>Übernachtungsplatz bei Gjernbanen und dem kommunalen Wald.</p>",
+    "uk_k_beskr": "Shelter site close to the old rail road track in the municipal wood.",
+    "uk_l_beskr": "<p>Pleasant minor shelter site located in the municipally owed plantation Amerika Plantage. The site is equipped with a shelter and a fire ring as well as a tabel with benches.</p><p><br></p><p>At approximately 150 meters away you will find drinking water from an old fashioned water pump and a privy.</p>",
+    "d_k_beskr": "Primitiver Übernachtungsplatz bei Lille Amerika.",
+    "d_l_beskr": "<p>Übernachtungsplatz bei Gjernbanen und dem kommunalen Wald.</p><p><br></p><p>Kleiner, gemütlicher Platz in der Amerika Plantage, in der Nähe von Gjernbanen. Der Platz ist mit Unterständen, Feuerstelle und Tisch- und Bankset ausgestattet. Ca. 150 m. vom Platz ist eine Trinkwasserquelle, welche mit einer altertümlichen Wasserpumpe ausgestattet ist. An der gleichen Stelle findet man auch eine Trockentoilette.</p>",
+    "ansvar_org": "Silkeborg Kommune                                                                                                                                                                                                                                             ",
+    "kontak_ved": "natur@silkeborg.dk, 89701000",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 9,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 2,
+    "ansva_v": "Kommune",
+    "link": "                                                                                                                                                                                                                                                               "
+  }
+},{
+  "_id": {
+    "$oid": "61767c8d1f200fe26b738126"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        9.66661558528494,
+        56.2158249447811
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "074700e9-403d-4c47-baa6-169cd7f20420",
+    "versions_id": "9dc0c7be-df08-11eb-a7c0-06d09fa510f4",
+    "systid_fra": "2021-07-07 11:49:26.353359+02",
+    "systid_til": null,
+    "oprettet": "2021-03-08 10:55:22.208338+01",
+    "cvr_kode": 29189641,
+    "cvr_navn": "Silkeborg Kommune",
+    "kommunekode": 740,
+    "bruger_id": "Poul Erik Thystrup",
+    "oprindkode": 7,
+    "oprindelse": "Felt-/markbesøg",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Sminge Sø",
+    "beskrivels": "Primitiv overnatningsplads med to shelters.",
+    "lang_beskr": "<p>To shelters i tilknytning til P-plads og madpakkehus. Pladsen ligger tæt ved Sminge Sø og Trækstien med udsigt over søen. 2-300 m derfra findes et toilet, som er åbent i sommerhalvåret. Her kan man tappe drikkevand ved håndvasken.</p><p>Der findes desuden et madpakkehus ved pladsen.</p><p><br></p><p>De to shelters kan bookes via Silkeborg Kommunes fritidsportal:</p><p><a href=\"https://fritidsportalen.silkeborg.dk/default.asp?wkid=10023&navid=1\" rel=\"noopener noreferrer\" target=\"_blank\">https://fritidsportalen.silkeborg.dk/default.asp?wkid=10023&navid=1</a></p>",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Silkeborg Kommune",
+    "kontak_ved": "kommunen@silkeborg.dk, 89 70 10 00",
+    "handicap_k": null,
+    "handicap": null,
+    "antal_pl": 6,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 2,
+    "ansva_v": "Kommune",
+    "link": null
+  }
+},{
+  "_id": {
+    "$oid": "61767c8d1f200fe26b738128"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        9.48827355065314,
+        56.2582825605404
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "d8a7bc76-49bb-46b6-aad2-067ea8cb9942",
+    "versions_id": "89764896-dfdb-11eb-b4e4-06d09fa510f4",
+    "systid_fra": "2021-07-08 12:59:15.71573+02",
+    "systid_til": null,
+    "oprettet": "2021-03-23 09:13:51.700819+01",
+    "cvr_kode": 29189641,
+    "cvr_navn": "Silkeborg Kommune",
+    "kommunekode": 740,
+    "bruger_id": "Torben Nielsen",
+    "oprindkode": 7,
+    "oprindelse": "Felt-/markbesøg",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Hinge søbad",
+    "beskrivels": "Vinderslevholmvej 64, 8620 Kjellerup",
+    "lang_beskr": "<p><span style=\"background-color: rgb(246, 246, 246);\">Hinge Sø ligger i rolige omgivelser syd for Kjellerup, og søen rummer et enkelt offentligt badested (Hinge søbad). Der er badebro, sandstrand, toiletfaciliteter og borde-bænkesæt ved søbadet. Madpakkehus og bål / grill sted. Toiletbygningen er åben i perioden 1. april til 15. oktober.</span></p><p><span style=\"background-color: rgb(246, 246, 246);\">Det omkringliggende opholdsareal er delvist skovbevokset.</span></p><p><br></p><p><span style=\"background-color: rgb(246, 246, 246);\">Søen er meget næringsrig, og modtager væsentlige mængder næringsstoffer. De mange næringsstoffer betyder, at der ofte er mange alger i Hinge sø, hvilket påvirker badevandskvaliteten. Algerne kan være giftige, og man bør ikke bade, hvis vandet er grønligt eller uklart.</span></p><p><br></p><p><br></p>",
+    "uk_k_beskr": null,
+    "uk_l_beskr": "<p><span style=\"background-color: rgb(246, 246, 246);\">Hinge Sø is situated in quiet surroundings South of Kjellerup. At the lake there is a sandy bathing beach equipped with a bathing jetty, restrooms and tables. There is a shed for eating your packed lunch and a fireplace.</span></p><p><br></p><p><span style=\"background-color: rgb(246, 246, 246);\">The restrooms are open during the season from 1th of Apr</span></p>",
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Silkeborg Kommune",
+    "kontak_ved": "idraetogfritid@silkeborg.dk, 89 70 10 00",
+    "handicap_k": null,
+    "handicap": null,
+    "antal_pl": 1,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": null,
+    "ansva_v": null,
+    "link": null
+  }
+},{
+  "_id": {
+    "$oid": "61767c8d1f200fe26b73812a"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        9.48808873572031,
+        56.258228528164
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "fc1cbaaa-514b-47f8-b783-4a1857ac1b9a",
+    "versions_id": "8987f000-dfdb-11eb-b4e6-06d09fa510f4",
+    "systid_fra": "2021-07-08 12:59:15.71573+02",
+    "systid_til": null,
+    "oprettet": "2021-03-23 09:11:44.445904+01",
+    "cvr_kode": 29189641,
+    "cvr_navn": "Silkeborg Kommune",
+    "kommunekode": 740,
+    "bruger_id": "Torben Nielsen",
+    "oprindkode": 7,
+    "oprindelse": "Felt-/markbesøg",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Hinge søbad",
+    "beskrivels": "Vinderslevholmvej 64, 8620 Kjellerup",
+    "lang_beskr": "<p><span style=\"background-color: rgb(246, 246, 246);\">Hinge Sø ligger i rolige omgivelser syd for Kjellerup, og søen rummer et enkelt offentligt badested (Hinge søbad). Der er badebro, sandstrand, toiletfaciliteter og borde-bænkesæt ved søbadet. Madpakkehus og bål / grill sted. Toiletbygningen er åben i perioden 1. april til 15. oktober.</span></p><p><span style=\"background-color: rgb(246, 246, 246);\">Det omkringliggende opholdsareal er delvist skovbevokset.</span></p><p><br></p><p><span style=\"background-color: rgb(246, 246, 246);\">Søen er meget næringsrig, og modtager væsentlige mængder næringsstoffer. De mange næringsstoffer betyder, at der ofte er mange alger i Hinge sø, hvilket påvirker badevandskvaliteten. Algerne kan være giftige, og man bør ikke bade, hvis vandet er grønligt eller uklart.</span></p><p><br></p><p><br></p>",
+    "uk_k_beskr": "Hinge Sø is situated in quiet surroundings South of Kjellerup",
+    "uk_l_beskr": "<p>Hinge Sø is situated in quiet surroundings South of Kjellerup. At the lake there is a sandy bathing beach equipped with a bathing jetty, restrooms and tables. There is a shed for eating your packed lunch and a fireplace.</p><p>The restrooms are open during the season from 1th of April until 15th of October.</p><p>The surroundings are partly woodlands.</p><p><br></p><p>The lake is rich in nutrients and as a consequence may be rich in algae as well. The algae may be toxic, so if the water is green or blurred bathing should be avoided.</p>",
+    "d_k_beskr": "Hinge Sø liegt in einer ruhigen Umgebung südlich von Kjellerup",
+    "d_l_beskr": "<p>Hinge Sø liegt in einer ruhigen Umgebung südlich von Kjellerup. Beim See gibt es eine öffentliche Badestelle (Hinge Søbad). Dort befindet sich ein Badesteg, Sandstrand, Toiletten und Tische und Bänke. Die Toilette hat vom 1. April bis zum 15. Oktober geöffnet. Das umherliegende Aufenthaltsareal ist teilweise bewaldet. Der See ist sehr nährstoffreich. Das führt dazu, dass sich oft Algen im Hinge See befinden. Dies beeinflusst die Wasserqualität und kann auch gesundheitsschädlich sein, deshalb sollte man nicht baden, wenn das Wasser grün oder unklar ist.</p>",
+    "ansvar_org": "Silkeborg Kommune",
+    "kontak_ved": "idraetogfritid@silkeborg.dk, 89 70 10 00",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 4,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": null,
+    "ansva_v": null,
+    "link": "https://silkeborg.dk/Borger/Natur/Badning/Badesteder/Hinge-Soe"
+  }
+},{
+  "_id": {
+    "$oid": "61767c8d1f200fe26b73812d"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        9.58706421805277,
+        56.3136348168849
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "9d620970-5db9-425d-b4d4-2c2ad5b2c1c5",
+    "versions_id": "37b46d62-e08f-11eb-a7bc-06d09fa510f4",
+    "systid_fra": "2021-07-09 10:25:27.775759+02",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 29189641,
+    "cvr_navn": "Silkeborg Kommune",
+    "kommunekode": 740,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Telt- og shelterplads ved Ans Søbred",
+    "beskrivels": "Søgade 29, 8643 Ans By",
+    "lang_beskr": "<p><span style=\"color: rgb(51, 51, 51);\">Fin stor plæne med shelter og bålhus. Der er plads til 10-15</span></p><p><span style=\"color: rgb(51, 51, 51);\">telte. Overnatning på pladsen er forbeholdt folk der færdes på og ved Gudenåen,</span></p><p><span style=\"color: rgb(51, 51, 51);\">og kun en nat. Teltpladsen ligger i forbindelse med et parklignende område, med</span></p><p><span style=\"color: rgb(51, 51, 51);\">toiletfaciliteter. Afstand til toilet ca. 50 m. Toilettet er åbent i perioden</span></p><p><span style=\"color: rgb(51, 51, 51);\">1. april til 15. oktober. Indkøb ca. 1 km. Adgangen til sheltere og teltplads</span></p><p><span style=\"color: rgb(51, 51, 51);\">kan være begrænset ved arrangementer. </span></p>",
+    "uk_k_beskr": "Søgade 29, 8643 Ans By",
+    "uk_l_beskr": "<p>Nice large lawn with shelters and an indoor fireplace. In addition to the shelters there is room for 10-15 tents. Overnight stay is reserved </p><p>people moving on and along the river Gudenåen, and for one night only.</p><p>The tent site is place in connection with a park like area and there is access to restrooms. The restrooms are open during the season from 1th of April until 15th of October.</p><p>Approximately 1 km away you will find several shopping facilities.</p><p>At public events access to the site may bee restricted or prohibited.</p>",
+    "d_k_beskr": "Søgade 29, 8643 Ans By",
+    "d_l_beskr": "<p><span style=\"color: rgb(51, 51, 51);\">Großer Rasenplatz mit Shelterhütten und Feuerstelle. Es besteht Platz für 10-15 Zelte. Das Übernachten auf dem Platz ist für Kanufahrer vorbehalten, jedoch nur für eine Nacht. Der Zeltplatz liegt in der Nähe eines parkähnlichen Gebietes mit Toiletten. Der Abstand zu den Toiletten beträgt ca. 50 m. Die Toilette ist vom 1. April bis zum 15. Oktober geöffnet. Die nächste Einkaufsmöglichkeit ist ca. einen Kilometer entfernt. Der Zugang zu den Shelterhütten und dem Zeltplatz kann durch Veranstaltungen begrenzt sein.Badestedet ved Ans Søbred ligger ved Tange sø. Der er badebro, sandstrand, toiletfaciliteter og borde-bænkesæt ved søbadet. Madpakkehus og bål / grill sted. Toiletbygningen er åben i perioden 1. april til 15. oktober.</span></p>",
+    "ansvar_org": "Silkeborg Kommune                                                                                                                                                                                                                                             ",
+    "kontak_ved": "idraetogfritid@silkeborg.dk, 89 70 10 00",
+    "handicap_k": 1,
+    "handicap": "Handicapegnet",
+    "antal_pl": 10,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 2,
+    "ansva_v": "Kommune",
+    "link": "                                                                                                                                                                                                                                                               "
+  }
+},{
+  "_id": {
+    "$oid": "61767c8d1f200fe26b73813c"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        9.45016657127327,
+        56.2825712702595
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "b1cd89e3-6f70-4702-9209-3cd29b7a73ca",
+    "versions_id": "abf2de3e-8abe-11ea-ac11-062b96cbb5a0",
+    "systid_fra": "2020-04-30 10:43:23.296249+02",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 29189641,
+    "cvr_navn": "Silkeborg Kommune",
+    "kommunekode": 740,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Overnatningsplads, Arena Midt                     ",
+    "beskrivels": "<center><strong>Primitiv overnatningsplads med shelters, bålplads m.m.</strong></center>                                                                                                                                                                      ",
+    "lang_beskr": "<strong>Dansk:</strong><br/>\r\n\r\nPrimitiv overnatningsplads med to shelters, plads til to små telte. Der er bålplads.- Gåafstand fra P-plads ca. 100 m.<br/><br/>\r\n\r\n<strong/>English:</strong><br/>\r\nPrimitive shelter site with two shelters and a fireplace in addition to room for a couple of small tents. Walking distance from the parking provision approximately 100 meters.<br/><br/>\r\n\r\n<strong>Deutsch:</strong><br/>\r\nPrimitiver Übernachtungsplatz mit zwei Shelterhütten und Platz für zwei kleinere Zelte. Dort befindet sich auch eine Feuerstelle. Vom Parkplatz sind es ca. 100 m. Fußweg.",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Silkeborg Kommune                                                                                                                                                                                                                                             ",
+    "kontak_ved": "natur@silkeborg.dk, 89701000                 ",
+    "handicap_k": 1,
+    "handicap": "Handicapegnet",
+    "antal_pl": 2,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 2,
+    "ansva_v": "Kommune",
+    "link": "                                                                                                                                                                                                                                                               "
+  }
+},{
+  "_id": {
+    "$oid": "61767c8d1f200fe26b738147"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        9.32707353189275,
+        56.2195997364929
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "a1a37210-22fd-4a9d-ad35-271c48e130af",
+    "versions_id": "b9d3ec28-8abe-11ea-ac34-062b96cbb5a0",
+    "systid_fra": "2020-04-30 10:43:47.951484+02",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 29189641,
+    "cvr_navn": "Silkeborg Kommune",
+    "kommunekode": 740,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Primitiv overnatningsplads ved Christianshøj      ",
+    "beskrivels": "<center><strong>Primitiv overnatningsplads på Hærvejen.</strong></center>                                                                                                                                                                                     ",
+    "lang_beskr": "<strong>Dansk:</strong><br/>\r\nPrimitiv overnatningsplads på Hærvejsvandreruten. Pladsen ligger i udkanten af et kommunalt ejet skovområde.<br/>\r\nPladsen er forsynet med shelter, bålsted, drikkevand samt multtoilet.<br/>\r\nDer er også mulighed for at slå et mindre antal telte op på pladsen.<br/>\r\nPladsen kan ikke bookes.<br/><br/>\r\n\r\n\r\n\r\n<strong>English:</strong><br/>\r\nPrimitive shelter site along the hiking trail Hærvejsvandreruten. The site is located at the edge of a municipally owed forest.<br/>\r\nThe site is equipped with a shelter, a firering, drinking water and a privy.<br/>\r\nThe site also offers room for a couple of minor tents.<br/>\r\nThe shelter can not bee booked.<br/>\r\n \r\n\r\n\r\n<strong>Deutsch:</strong><br/>\r\nPrimitiver Übernachtungsplatz bei Christianshøj.<br/>\r\nPrimitiver Übernachtungsplatz auf Hærvejen.<br/>\r\nPrimitiver Übernachtungsplatz auf der Hærvejsvandreruten. Der Platz liegt am Rand von einem Waldgebiet, welches der Kommune gehört. Der Platz ist mit Unterständen, Feuers",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Silkeborg Kommune                                                                                                                                                                                                                                             ",
+    "kontak_ved": "natur@silkeborg.dk, 89701000                 ",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 4,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 2,
+    "ansva_v": "Kommune",
+    "link": "                                                                                                                                                                                                                                                               "
+  }
+},{
+  "_id": {
+    "$oid": "61767c8d1f200fe26b738148"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        9.40645539191875,
+        56.1749797846643
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "d6793385-1faa-4576-97c3-194de6509790",
+    "versions_id": "b9ea26c8-8abe-11ea-ac37-062b96cbb5a0",
+    "systid_fra": "2020-04-30 10:43:47.951484+02",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 29189641,
+    "cvr_navn": "Silkeborg Kommune",
+    "kommunekode": 740,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Primitiv overnatningsplads ved Skeldalen          ",
+    "beskrivels": "<center><strong>Overnatningsplads øst for Bølling Sø, ved hærvejsvandreruten.</strong></center>                                                                                                                                                               ",
+    "lang_beskr": "<strong>Dansk:</strong><br/>\r\nStørre plads, indrettet med shelter, bålsted m. grillrist, tørkloset og drikkevand fra egen boring, gammeldags vandpost.<br/>\r\nDer er plads til flere telte<br/>\r\nPladsen er fredeligt beliggende nær Bølling Sø.<br/>\r\nPladsen kan ikke bookes.<br/><br/>\r\n\r\n\r\n\r\n<strong>English:</strong><br/>\r\nLarge shelter site equipped with fire ring with a barbecue, privy and drinking water from and old fashioned watertap.<br/>\r\nThere are room for several tents.<br/>\r\nThe site is quite and peacefull close to the lake Bølling Sø.<br/>\r\nThe site cannot bee booked.<br/><br/>\r\n\r\n\r\n\r\n<strong>Deutsch:</strong><br/>\r\nPrimitiver Übernachtungsplatz bei Skeldalen.<br/>\r\nÜbernachtungsplatz östlich vom Bølling Sø, bei der Hærvejswanderroute.<br/>\r\nGrößerer Platz, ausgestattet mit Unterstand, Feuerstelle mit Grillrost, Trockentoilette und Trinkwasser vom Brunnen, altertümliche Wasserpumpe. <br/>\r\nEs gibt Platz für mehrere Zelte. Der Platz liegt an einer friedlichen Stelle in der Nähe vom",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Silkeborg Kommune                                                                                                                                                                                                                                             ",
+    "kontak_ved": "natur@silkeborg.dk, 89701000                 ",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 5,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 2,
+    "ansva_v": "Kommune",
+    "link": "                                                                                                                                                                                                                                                               "
+  }
+},{
+  "_id": {
+    "$oid": "61767c8d1f200fe26b73814d"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        9.58608680383708,
+        56.1460056180786
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "c89633ac-f7d7-4e95-9ca9-30c54c3ec85f",
+    "versions_id": "2679568a-fbff-11eb-8725-06d09fa510f4",
+    "systid_fra": "2021-08-13 08:24:44.514491+02",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 29189641,
+    "cvr_navn": "Silkeborg Kommune",
+    "kommunekode": 740,
+    "bruger_id": "Mette Milo Tromborg",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "De Små Fisk – telt- og Shelterplads for folk der færdes på og ved Gudenåen.",
+    "beskrivels": "<center><strong>Sejsvej 40, 8600 Silkeborg</strong></center>",
+    "lang_beskr": "<p>Kommunal teltplads på naturområde direkte ned til Brassø med adgang</p><p>fra vandet.</p><p>Pladsen ligger syd for vejen fra Silkeborg til Sejs, umiddelbart</p><p>inden Sejs, ca. 3 km fra Silkeborg.</p><p> </p><p><u>Overnatningsmuligheder: </u></p><p>De Små Fisk kan kun benyttes som dagcamping det vil sig at der som udgangspunkt ikke må overnattes på pladsen. Der er dog mulighed for at overnatte primitivt på De Små Fisk – i telt på teltpladsen eller i shelter hvis du kommer til pladsen fra søsiden i kano eller kajak, eller som vandrer på Himmelbjergruten. De to shelter tættest på Brassø er forbeholdt kano og kajakroere. De fire shelter længest væk fra Brassø kan også benyttes af publikum på Himmelbjergruten.</p><p>Det er ikke muligt at booke shelter eller teltplads så det er efter først til mølle princippet. Du må kun have en overnatning på pladsen før du drager videre.</p><p> </p><p><u>Adgang til faciliteter:</u></p><p>Shelter tættest på toiletbygning er indrettet med bl.a.</p><p>personlift, udtræksleje og traverslift. Enkeltpersoner eller grupper af</p><p>personer med bevægelseshandicap har fortrinsret til denne shelter.</p>",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Silkeborg Kommune                                                                                                                                                                                                                                             ",
+    "kontak_ved": "idraetogfritid@silkeborg.dk, 89 70 10 00",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 10,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 2,
+    "ansva_v": "Kommune",
+    "link": "                                                                                                                                                                                                                                                               "
+  }
+},{
+  "_id": {
+    "$oid": "61767c8d1f200fe26b738150"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        9.50418678945281,
+        56.0313706238526
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "1c0775d4-02d0-420f-8132-7ff6217a0abd",
+    "versions_id": "e3d839a2-c5b0-11ea-bb28-06f2586f84aa",
+    "systid_fra": "2020-07-14 11:03:31.533349+02",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 29189641,
+    "cvr_navn": "Silkeborg Kommune",
+    "kommunekode": 740,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Thorslykke shelter- og teltplads                ",
+    "beskrivels": "Naturskøn shelterplads på lille landsted med bondgårdsdyr.",
+    "lang_beskr": "<p>Mulighed for overnatning mod betaling i telt, shelters og campingvogn.</p><p><br></p><p>Der er kompost toilet, vandpost, bålplads, køle/fryseskab, strøm, gas-grill/komfur i lille udekøkken og p-plads 50 meter fra shelter.</p><p><br></p><p>Book via: <a href=\"https://www.thorslykke.dk/shelter/book-shelter/\" rel=\"noopener noreferrer\" target=\"_blank\">https://www.thorslykke.dk/shelter/book-shelter/</a></p><p><br></p><p>Ved spørgsmål kontakt Joachim på 2044 4550</p><p><br></p><p>Payment; cash or mobilepay</p>",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Til faciliteter uden organisation                                                                                                                                                                                                                             ",
+    "kontak_ved": ", ",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 3,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 9,
+    "ansva_v": "Ukendt",
+    "link": "https://www.thorslykke.dk/shelter/book-shelter/                                                                                                                                                         "
+  }
+},{
+  "_id": {
+    "$oid": "61767c8d1f200fe26b73818e"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        9.67004675795404,
+        56.2967645381669
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "a049e389-352d-4087-b2fa-c748c7f1be5d",
+    "versions_id": "5ba075f8-87da-11eb-a0e3-06d09fa510f4",
+    "systid_fra": "2021-03-18 12:09:07.449459+01",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 29189641,
+    "cvr_navn": "Silkeborg Kommune",
+    "kommunekode": 740,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Telt- og shelterplads ved Kongensbro              ",
+    "beskrivels": "Telt- og shelterplads for kanofarere og vandrere på Trækstien.",
+    "lang_beskr": "<p><strong>Dansk:</strong></p><p>Privat ejet plads med shelters og plads til telte. Her er indrettet med bålplads og bord- og bænkesæt.</p><p>I tilknytning til pladsen findes et offentligt toilet, som er åbent i sommerhalvåret fra medio april til medio oktober.</p><p>Man kan booke plads hos Silkeborg Kanocenter på tlf. 86 80 30 03. Det koster 25 kr. for børn at overnatte og 50 kr. for voksne.</p><p><br></p><p><strong>English:</strong></p><p>Privately owed tent and shelter site along the river Gudenåen and the footpath Trækstien. The site is for hikers and travelers by canoe. The site is equipped with a fire ring and tabels and benches.</p><p>Close by you will find a public restroom. The restroom is open during the summer from the middel of April until the middel of October.</p><p>It is possible to book the site for the night at Silkeborg Kanocenter, please phone 86 80 30 03. The overnight fee is 25 DKr a child and 50 DKr for an adult.</p>",
+    "uk_k_beskr": "Privately owed tent and shelter site along the river Gudenåen and the footpath Trækstien",
+    "uk_l_beskr": "<p>The site is for hikers and travelers by canoe. The site is equipped with a fire ring and tabels and benches.</p><p><br></p><p>Close by you will find a public restroom. The restroom is open during the summer from the middel of April until the middel of October.</p><p><br></p><p>It is possible to book the site for the night at Silkeborg Kanocenter, please phone 86 80 30 03. The overnight fee is 25 DKr a child and 50 DKr for an adult.</p>",
+    "d_k_beskr": "Zelt- und Shelterplatz bei Kongensbro",
+    "d_l_beskr": "<p>Zelt- und Shelterplatz für Kanufahrer und Wanderer des Trækstien.</p><p><br></p><p>Privater Platz mit Shelterhütten und Platz für Zelte. Dieser ist mit einer Feuerstelle und Tisch und Bänken ausgestattet.</p><p><br></p><p>In der Nähe des Platzes befindet sich auch eine Toilette, welche im Sommerhalbjahr von Mitte April bis Mitte Oktober geöffnet. </p>",
+    "ansvar_org": "Silkeborg Kommune                                                                                                                                                                                                                                             ",
+    "kontak_ved": "natur@silkeborg.dk, 89701000",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 6,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 2,
+    "ansva_v": "Kommune",
+    "link": "https://silkeborgkommune.dk/Borger/Natur/Oplev-naturen/Traekstien                                                                                                                                                                                              "
+  }
+},{
+  "_id": {
+    "$oid": "61767c8d1f200fe26b73818f"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        9.42366006421013,
+        56.1254606073633
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "6732ac9a-3634-4289-ba04-4323de0523aa",
+    "versions_id": "63d5bc1e-87db-11eb-8cbf-06d09fa510f4",
+    "systid_fra": "2021-03-18 12:16:30.718459+01",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 29189641,
+    "cvr_navn": "Silkeborg Kommune",
+    "kommunekode": 740,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Primitiv overnatningsplads ved Den Skæve Bane     ",
+    "beskrivels": "Overnatningsplads ved Den Skæve Bane/Hærvejsvandreruten",
+    "lang_beskr": "<p><strong>Dansk:</strong></p><p>Lille, hyggelig plads ved naturstien.</p><p>Pladsen er indrettet med shelter, bålsted m. grillrist, tørkloset samt vand fra egen boring. Boringen blev renset for okker i foråret 2011. </p><p>Der kan være lidt misfarvning på grund af okker, men vandet er ikke sundhedsskadeligt. Det kan hjælpe at pumpe nogle liter vand op, inden man drikker af det. Vi foretager drikkevandsanalyse af boringen hvert år.</p><p><br></p><p><strong>English:</strong></p><p>Shelter site along the old rail road track Den Skæve Bane and the hiking trail Hærvejsvandreruten.</p><p>Pleasant minor shelter site at the natur trail.</p><p>The site is equipped with a shelter, a firering with a barbecue and a privy as well as drinking water from a private drilling. The water may bee discoloured by ocher but offers no health risk. Pumping a couple of liters before bottling your water may help the discolouration. The drilling was cleaned in 2011. The quality of the water is testet yearly.</p>",
+    "uk_k_beskr": "Pleasant minor shelter site at the natur trail.",
+    "uk_l_beskr": "<p>Shelter site along the old rail road track Den Skæve Bane and the hiking trail Hærvejsvandreruten.</p><p><br></p><p>The site is equipped with a shelter, a firering with a barbecue and a privy as well as drinking water from a private drilling. </p><p><br></p><p>The water may bee discoloured by ocher but offers no health risk. </p><p><br></p><p>Pumping a couple of liters before bottling your water may help the discolouration. </p><p><br></p><p>The drilling was cleaned in 2011 and the quality of the drinking water is testet on a yearly base.</p>",
+    "d_k_beskr": "Primitiver Übernachtungsplatz bei Den Skæve Bane",
+    "d_l_beskr": "<p>Übernachtungsplatz bei Den Skæve Bane/Hærvejsvandreruten</p><p><br></p><p>Kleiner, gemütlicher Platz am Naturweg.</p><p><br></p><p>Der Platz ist mit Unterständen, Feuerstelle mit Grillrost, Trockentoilette und Quellwasser ausgestattet. </p><p><br></p><p>Die Bohrung für das Quellwasser, wurde im Frühjahr 2011 gereinigt.</p><p><br></p><p>Es kann passieren, dass das Wasser eine leichte Ockerfarbe vorzeigt, jedoch besteht dadurch kein Risiko für die Gesundheit. </p><p><br></p><p>Es hilft, wenn man ein paar Liter Wasser hochpumpt, bevor man es trinkt. </p><p><br></p><p>Um eine gute Wasserqualität zu gewährleisten, führen wir jährliche Trinkwasseranalysen durch.</p>",
+    "ansvar_org": "Silkeborg Kommune                                                                                                                                                                                                                                             ",
+    "kontak_ved": "natur@silkeborg.dk, 89701000",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 4,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 2,
+    "ansva_v": "Kommune",
+    "link": "                                                                                                                                                                                                                                                               "
+  }
+},{
+  "_id": {
+    "$oid": "61767c991f200fe26b7381c9"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        9.94390021081838,
+        56.0624697647279
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "0c7902ba-db7f-45d1-bba3-03737ce132db",
+    "versions_id": "b0882e76-7fd4-11ea-b2f5-062b96cbb5a0",
+    "systid_fra": "2020-04-16 13:23:21.49788+02",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 29189633,
+    "cvr_navn": "Skanderborg Kommune",
+    "kommunekode": 746,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Tingdalen                                         ",
+    "beskrivels": "                                                                                                                                                                                                                                                              ",
+    "lang_beskr": "Pladsadresse: Ved Tingdalvej 1 Mesing, 8660 Skanderborg. Shelter i udkanten af skoven. Det er ikke muligt at bruge telt, da terrænet skråner stærkt. Lokum til rådighed. Arealerne mod syd og øst er private. Tag altid alt affald med hjem og aflevere pladsen - Fra Mesing by går man ad Mesinggade ud på Tingdalvej. Forbi Arnelund (Tingdalvej 1) og videre ad markvej ca 600 m til lille p-plads, hvor vejen går ind i skoven. Her går man ad sti til venstre ned i Tingdalen, over broen og skråt op ad skrænten. Ring om pladsen i forvejen.",
+    "uk_k_beskr": "ja",
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Hanne Brandt",
+    "kontak_ved": "aabogaard@mail.dk, 61 74 32 84",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 10,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 1,
+    "ansva_v": "Privat/forening",
+    "link": "https://www.friluftsraadet.dk/overnatning-i-det-fri"
+  }
+},{
+  "_id": {
+    "$oid": "61767c991f200fe26b73820f"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        9.8249281177584,
+        55.9746286666764
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "1fec8561-b2cd-47ca-a5a0-a51e970dd2bb",
+    "versions_id": "f3ccdf02-8abe-11ea-ac48-062b96cbb5a0",
+    "systid_fra": "2020-04-30 10:45:30.883861+02",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 29189633,
+    "cvr_navn": "Skanderborg Kommune",
+    "kommunekode": 746,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Møgelhøj/Møllehøj                                 ",
+    "beskrivels": "Shelterplads med to shelters - Danmarks højeste beliggende!                                                                                                                                                                                                   ",
+    "lang_beskr": "<p><span style=\"font-family: calibri;\">Shelterplads med to shelters. Pladsen er indrettet med bålsted m. grillrist, borde-bænkesæt og multtoilet.</span></p>\r\n<p><span style=\"font-family: calibri;\">Shelterpladsen ligger naturskønt på privat mands jord på Møgelhøj, et af de højeste naturlige punkter i Danmark og er etableret i tilknytning til vandreruten &rdquo;Sporet i Ejer Bjerge&rdquo;. </span></p>",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Skanderborg Kommune                                                                                                                                                                                                                                           ",
+    "kontak_ved": "vtd@skanderborg.dk, 87 94 70 00              ",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 9,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 2,
+    "ansva_v": "Kommune",
+    "link": "https://www.visitskanderborg.dk/moegelhoej-gdk714321                                                                                                                                                                                                           "
+  }
+},{
+  "_id": {
+    "$oid": "61767c991f200fe26b738210"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        9.94832394350549,
+        56.1204449905077
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "5b6ef02d-f848-4b57-a28d-767f2e86484d",
+    "versions_id": "f386881c-8abf-11ea-b6c7-062b96cbb5a0",
+    "systid_fra": "2020-04-30 10:52:25.258183+02",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 29189633,
+    "cvr_navn": "Skanderborg Kommune",
+    "kommunekode": 746,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Stjærskolens Shelter og Bålhytteplads             ",
+    "beskrivels": "Bag ved Stjærskolen ligger der et shelter (max. 4 voksne og 4 børn) samt en bålhytte der bookes hos skolen og benyttes.                                                                                                                                       ",
+    "lang_beskr": "Booket lørdag d. 14.-søndag d. 15. september 2019\r\n\r\nBag ved Stjærskolen ligger der et shelter (max. kapacitet 4 voksne og 4 børn) samt en bålhytte der bookes hos skolen og benyttes til overnatning. Det er også muligt at låne en kasse med bålgrej og en Dutchoven.\r\n\r\nKontakt: tina.haslev@skanderborg.dk",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Til faciliteter uden organisation                                                                                                                                                                                                                             ",
+    "kontak_ved": ", ",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 3,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 9,
+    "ansva_v": "Ukendt",
+    "link": "                                                                                                                                                                                                                                                               "
+  }
+},{
+  "_id": {
+    "$oid": "61767c991f200fe26b738213"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        9.96686135958894,
+        56.0506937581734
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "a59d3564-0fc0-4ea0-95a9-011228fb05b2",
+    "versions_id": "f3d35e3a-8abf-11ea-b6d0-062b96cbb5a0",
+    "systid_fra": "2020-04-30 10:52:25.258183+02",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 29189633,
+    "cvr_navn": "Skanderborg Kommune",
+    "kommunekode": 746,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Shelter ved Fælleden                              ",
+    "beskrivels": "Shelter med 4 - 6 liggepladser                                                                                                                                                                                                                                ",
+    "lang_beskr": "Der må ikke tændes bål ved pladsen.\r\n\r\nPladsen kan ikke forhåndsbookes - Det er først til mølle princip.",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Til faciliteter uden organisation                                                                                                                                                                                                                             ",
+    "kontak_ved": ", ",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 7,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 9,
+    "ansva_v": "Ukendt",
+    "link": "                                                                                                                                                                                                                                                               "
+  }
+},{
+  "_id": {
+    "$oid": "61767ca51f200fe26b73822e"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.7313589034948,
+        56.2019839489899
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "682b1a89-15d6-4224-a807-8b0f56c57605",
+    "versions_id": "2b9dd030-8abf-11ea-ac6c-062b96cbb5a0",
+    "systid_fra": "2020-04-30 10:47:02.515201+02",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 29189978,
+    "cvr_navn": "Syddjurs Kommune",
+    "kommunekode": 706,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Boeslum Strand                                    ",
+    "beskrivels": "Shelter for havkajakroere                                                                                                                                                                                                                                     ",
+    "lang_beskr": "Som en del af havkajakruten langs kysterne i Syddjurs Kommune er der opstillet en shelter nær toiletbygningen. Afstanden til kysten ca. 200 m.\nBrug af shelter kræver ikke bookning. Der findes et offentligt toilet i nærheden som er åben i sommerhalvåret. <br>",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Syddjurs Kommune                                                                                                                                                                                                                                              ",
+    "kontak_ved": "syddjurs@syddjurs.dk, 87535000                 ",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 3,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 2,
+    "ansva_v": "Kommune",
+    "link": "http://weblink.syddjurs.dk/Foldere/Kajakkort.pdf                                                                                                                                                                                                               "
+  }
+},{
+  "_id": {
+    "$oid": "61767ca51f200fe26b73822f"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.3757797616129,
+        56.1809138783918
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "a55f9d16-b2dc-44f3-a1e9-dbc5da9f556e",
+    "versions_id": "2ba53c8a-8abf-11ea-ac6d-062b96cbb5a0",
+    "systid_fra": "2020-04-30 10:47:02.515201+02",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 29189978,
+    "cvr_navn": "Syddjurs Kommune",
+    "kommunekode": 706,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Betonshelteren ved Skødshoved Havn                ",
+    "beskrivels": "Shelter for kajakroere                                                                                                                                                                                                                                        ",
+    "lang_beskr": "Smukt beliggende tæt ved stranden ved Skødshoved Havn findes denne shelter som ligner en musling.  Shelteren er en meget speciel konstruktion, lavet i tynde dobbeltkrumme betonelementer med bund af hårdttræ. En meget anderledes shelter der bare skal opleves.<br />\nShelteren indgår som et støttepunkt på havkajakruten langs kommunens kyst.<br>\nDer er mulighed for at benytte toilettet på havnen hele året rundt.\nBrug af shelter kræver ikke bookning.<br/>",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Syddjurs Kommune                                                                                                                                                                                                                                              ",
+    "kontak_ved": "syddjurs@syddjurs.dk, 87535000                 ",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 2,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 2,
+    "ansva_v": "Kommune",
+    "link": "http://weblink.syddjurs.dk/Foldere/Kajakkort.pdf                                                                                                                                                                                                               "
+  }
+},{
+  "_id": {
+    "$oid": "61767ca51f200fe26b738231"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.6797356359045,
+        56.1768374756592
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "e1a93b6e-e647-4d8b-9e5e-0d601264a85e",
+    "versions_id": "891a4004-8abf-11ea-8ba9-062b96cbb5a0",
+    "systid_fra": "2020-04-30 10:49:32.506474+02",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 29189978,
+    "cvr_navn": "Syddjurs Kommune",
+    "kommunekode": 706,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "MTB banen, Ebeltoft                               ",
+    "beskrivels": "Shelter ved P pladsen ved start af MTB-sporet i Sønderplantage                                                                                                                                                                                                ",
+    "lang_beskr": "Shelter og bålhytte",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Til faciliteter uden organisation                                                                                                                                                                                                                             ",
+    "kontak_ved": ", ",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 4,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 9,
+    "ansva_v": "Ukendt",
+    "link": "                                                                                                                                                                                                                                                               "
+  }
+},{
+  "_id": {
+    "$oid": "61767ca51f200fe26b738233"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.6432660709924,
+        56.1734960212577
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "93b8b625-8677-4b47-84ef-4ef96397cf32",
+    "versions_id": "2bb40238-8abf-11ea-ac6f-062b96cbb5a0",
+    "systid_fra": "2020-04-30 10:47:02.515201+02",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 29189978,
+    "cvr_navn": "Syddjurs Kommune",
+    "kommunekode": 706,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Ahl Hage                                          ",
+    "beskrivels": "Overnatning for havkajakroere                                                                                                                                                                                                                                 ",
+    "lang_beskr": "Som en del af havkajakruten langs Syddjurs kyster er der opstillet to shelters lidt inde i egekrattet. <br />\nDer der toiletter på den nærliggende parkeringsplads. Toiletterne er åbne i sommerhalvåret.<br />\nBrug af shelter kræver ikke bookning.<br>",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Syddjurs Kommune                                                                                                                                                                                                                                              ",
+    "kontak_ved": "syddjurs@syddjurs.dk, 87535000                 ",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 8,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 2,
+    "ansva_v": "Kommune",
+    "link": "http://weblink.syddjurs.dk/Foldere/Kajakkort.pdf                                                                                                                                                                                                               "
+  }
+},{
+  "_id": {
+    "$oid": "61767ca51f200fe26b738237"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.4849169344474,
+        56.3027073201304
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "b4fed173-3da3-4c0e-a50f-694e8da9ad0b",
+    "versions_id": "bc740cf0-8abf-11ea-a129-062b96cbb5a0",
+    "systid_fra": "2020-04-30 10:50:55.734931+02",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 29189978,
+    "cvr_navn": "Syddjurs Kommune",
+    "kommunekode": 706,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Udeliv på Toppen                                  ",
+    "beskrivels": "I et villakvarter har Grundejerforeningen placeret 2 shelters                                                                                                                                                                                                 ",
+    "lang_beskr": "På toppen i et villakvarter har Grundejerforeningen placeret 2 shelters med udsigt mod Kalø Gods og ud over Djursland. Der er desuden en bålhytte. Der er ikke adgang til vand, som skal medbringes. Shelterne er velegnede til vandrere og cyklister for en enkelt overnatning. Der er ikke P-plads til biler. Shelterne kan ikke reserveres - de benyttes efter \"først til mølle\" princippet. Alt hvad der medbringes skal fjernes igen – der findes ikke skraldespand i området. Da faciliteterne ligger i et beboelsesområde, skal der være ro på toppen senest kl. 22. Adressen er Baunevænget 54, 8410 Rønde.\n.",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Til faciliteter uden organisation                                                                                                                                                                                                                             ",
+    "kontak_ved": ", ",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 4,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 9,
+    "ansva_v": "Ukendt",
+    "link": "                                                                                                                                                                                                                                                               "
+  }
+},{
+  "_id": {
+    "$oid": "61767ca51f200fe26b73823b"
+  },
+  "type": "Feature",
+  "geometry": {
+    "type": "MultiPoint",
+    "coordinates": [
+      [
+        10.5103882996126,
+        56.0992330666749
+      ]
+    ]
+  },
+  "properties": {
+    "temakode": 5800,
+    "temanavn": "t_5800_fac_pkt_t",
+    "objekt_id": "03d70608-4706-41d5-a1f1-887b3d46fed5",
+    "versions_id": "8ae0ab64-2437-11eb-8b85-06d09fa510f4",
+    "systid_fra": "2020-11-11 17:04:13.642824+01",
+    "systid_til": null,
+    "oprettet": "2020-01-24 12:01:20.765906+01",
+    "cvr_kode": 29189978,
+    "cvr_navn": "Syddjurs Kommune",
+    "kommunekode": 706,
+    "bruger_id": "Koudal",
+    "oprindkode": 0,
+    "oprindelse": "Ikke udfyldt",
+    "statuskode": 3,
+    "status": "Gældende / Vedtaget",
+    "off_kode": 1,
+    "offentlig": "Synlig for alle",
+    "noegle": null,
+    "note": null,
+    "facil_ty_k": 3012,
+    "facil_ty": "Shelter",
+    "navn": "Sletterhage                                       ",
+    "beskrivels": "Shelter for havkajakroere                                                                                                                                                                                                                                     ",
+    "lang_beskr": "Som en del af havkajakruten langs Syddjurs kyster er der indrettet en overnatningsplads inde i det gamle betonrør.<br/>\nVed Sletterhage er der ofte mulighed for at se marsvin og sæler.<br/>\nBrug af shelter kræver ikke bookning.<br/>\nDer findes et toilet på parkeringspladsen ved fyret som er åbent i sommerhalvåret.<br>",
+    "uk_k_beskr": null,
+    "uk_l_beskr": null,
+    "d_k_beskr": null,
+    "d_l_beskr": null,
+    "ansvar_org": "Syddjurs Kommune                                                                                                                                                                                                                                              ",
+    "kontak_ved": "syddjurs@syddjurs.dk, 87535000",
+    "handicap_k": 3,
+    "handicap": "Ikke handicapegnet",
+    "antal_pl": 5,
+    "vejkode": null,
+    "vejnavn": null,
+    "cvf_vejkode": null,
+    "husnr": null,
+    "postnr": null,
+    "postnr_by": null,
+    "adr_id": null,
+    "ansva_v_k": 2,
+    "ansva_v": "Kommune",
+    "link": "http://weblink.syddjurs.dk/Foldere/Kajakkort.pdf                                                                                                                                                                                                               "
+  }
+}]
