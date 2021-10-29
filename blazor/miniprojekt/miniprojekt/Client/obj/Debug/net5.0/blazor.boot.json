@@ -202,13 +202,13 @@
       "mscorlib.dll": "sha256-9AZ7YsJz\/p2gr4E0EQXdHBqwDxoXqtzxhqC6aRsa2K8=",
       "netstandard.dll": "sha256-yOOty6BTX3e57YAEHK5a4nku\/lj0vi7jg\/eQZAjbDQk=",
       "System.Private.CoreLib.dll": "sha256-rraBQp6NevIQiELPVfDFDl5pv9QVJqCiZhB5bkpiZ88=",
-      "miniprojekt.Shared.dll": "sha256-fRsEoYWTKP8qEuA58cbc0V2dtvTVMPTzB2tdWfWZsWo=",
-      "miniprojekt.Client.dll": "sha256-kbwvA0S\/txtasgBZtb6i+zW5KMg\/EDBhl5vjPlCJW1w="
+      "miniprojekt.Shared.dll": "sha256-cIempL7xiTBnzdK+kG73hRv6iuUd5UbCYl9GFFgttIk=",
+      "miniprojekt.Client.dll": "sha256-xs2c0ZoBN13KGOSJHHX9Ms+sGE1urGPzfj3tABdJR0A="
     },
     "lazyAssembly": null,
     "pdb": {
-      "miniprojekt.Shared.pdb": "sha256-uHxFvS57wjglwiJ2tJrydBQ2xjn93TjzHhowSwFC\/6g=",
-      "miniprojekt.Client.pdb": "sha256-GaGLQtxtEUThafBkaXf2Hb7iEIX3Nd1vcQG3wgkWnEg="
+      "miniprojekt.Shared.pdb": "sha256-6JijVwD10P+GzZ73Pbzj8HUesnQNJiYFul3tPc3xCEQ=",
+      "miniprojekt.Client.pdb": "sha256-ufIgJICiUm4oVerlp9LQ8Jrjad6ywKKNPlLWbk5\/UKY="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-L2vkcKzmXJtf+J7db5TbDMBckrgqJ5qc0ZzVIdRlm0I=",

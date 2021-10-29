@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\emili\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\emili\\.nuget\\packages"
+      "C:\\Users\\linek\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\linek\\.nuget\\packages"
     ]
   }
 }

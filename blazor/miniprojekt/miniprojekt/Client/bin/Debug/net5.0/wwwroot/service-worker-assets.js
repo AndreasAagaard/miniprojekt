@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-0Kyfdizm2MSJS0zSzcazVjr1x+62MK2wEdBiDi9wlrE=",
+      "hash": "sha256-XH52sv+ynuuo9KPzpSWmxa1s7+prBf1tMzuvCrJVJ7s=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -813,19 +813,19 @@
       "url": "_framework\/dotnet.5.0.9.js"
     },
     {
-      "hash": "sha256-fRsEoYWTKP8qEuA58cbc0V2dtvTVMPTzB2tdWfWZsWo=",
+      "hash": "sha256-cIempL7xiTBnzdK+kG73hRv6iuUd5UbCYl9GFFgttIk=",
       "url": "_framework\/miniprojekt.Shared.dll"
     },
     {
-      "hash": "sha256-uHxFvS57wjglwiJ2tJrydBQ2xjn93TjzHhowSwFC\/6g=",
+      "hash": "sha256-6JijVwD10P+GzZ73Pbzj8HUesnQNJiYFul3tPc3xCEQ=",
       "url": "_framework\/miniprojekt.Shared.pdb"
     },
     {
-      "hash": "sha256-kbwvA0S\/txtasgBZtb6i+zW5KMg\/EDBhl5vjPlCJW1w=",
+      "hash": "sha256-xs2c0ZoBN13KGOSJHHX9Ms+sGE1urGPzfj3tABdJR0A=",
       "url": "_framework\/miniprojekt.Client.dll"
     },
     {
-      "hash": "sha256-GaGLQtxtEUThafBkaXf2Hb7iEIX3Nd1vcQG3wgkWnEg=",
+      "hash": "sha256-ufIgJICiUm4oVerlp9LQ8Jrjad6ywKKNPlLWbk5\/UKY=",
       "url": "_framework\/miniprojekt.Client.pdb"
     },
     {
@@ -1641,7 +1641,7 @@
       "url": "_framework\/dotnet.5.0.9.js.gz"
     },
     {
-      "hash": "sha256-hD0A2WJq\/i+CIaOs5NNylJ7BLYfgh8uAJ7JzqEA4eHc=",
+      "hash": "sha256-X6FNwOLKzHLk+nmWOJl4kaqNS1Rfhqmb4Q966\/YQ2os=",
       "url": "_framework\/miniprojekt.Shared.dll.gz"
     },
     {
@@ -1717,5 +1717,5 @@
       "url": "miniprojekt.Client.bundle.scp.css"
     }
   ],
-  "version": "7ggwNafw"
+  "version": "VvvkLcYm"
 };

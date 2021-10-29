@@ -1,16 +1,78 @@
-﻿@page "/counter"
+﻿@using System.Collections.Generic;
 
-<h1>Counter</h1>
+@page "/counter"
 
-<p>Current count: @currentCount</p>
+<h1>Shelter</h1>
 
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<html>
+<head>
+    <title>Shelter booking</title>
+    <style>
+        .tableFixHead {
+            overflow-y: auto;
+            height: 106px;
+        }
+
+            .tableFixHead thead th {
+                position: sticky;
+                top: 0;
+            }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th,
+        td {
+            padding: 8px 16px;
+            border: 1px solid #ccc;
+        }
+
+        th {
+            background: #eee;
+        }
+    </style>
+</head>
+<body>
+    <div class="tableFixHead">
+        <table>
+            <thead>
+                <tr>
+                    <th>Col 1</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1.1</td>
+                </tr>
+                <tr>
+                    <td>1.2</td>
+                </tr>
+                <tr>
+                    <td>1.3</td>
+                </tr>
+                <tr>
+                    <td>1.4</td>
+                </tr>S
+                <tr>
+                    <td>1.5</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
+
+
 
 @code {
-    private int currentCount = 0;
+    List<string> shelterliste = new List<string>() { "Shelter1", "Shelter2", "Shelter3" };
 
-    private void IncrementCount()
-    {
-        currentCount++;
-    }
+
+
+
+
+
+
 }
