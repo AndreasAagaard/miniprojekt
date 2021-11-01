@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "miniprojekt.Shared/1.0.0": {
         "dependencies": {
+          "MongoDB.Bson": "2.13.2",
           "MongoDB.Driver": "2.13.2",
           "Newtonsoft.Json": "13.0.1"
         },

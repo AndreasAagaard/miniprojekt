@@ -15,13 +15,14 @@ namespace miniprojekt.Client.Shared
         public string FeatureType { get; set; }
 
         [BsonElement("geometry")]
-        public object geometry { get; set; }
+        public Geometry geometry { get; set; }
 
         [BsonElement("properties")]
-        public object properties { get; set; }
+        public Properties properties { get; set; }
 
         [BsonElement("properties.status")]
-        public string status { get; set; }        
+        public string status { get; set; }
+
         
     }
 
@@ -46,6 +47,11 @@ namespace miniprojekt.Client.Shared
             kommunekode = Kommunekode;
             status = Status;
             antal_pl = Antal_pl;
+        }
+
+        public string getName()
+        {
+            return navn;
         }
     }
 

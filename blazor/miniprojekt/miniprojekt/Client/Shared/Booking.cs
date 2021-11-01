@@ -17,12 +17,12 @@ namespace miniprojekt.Client.Shared
         private int antal_pers { get; set; }
         private string shelter_id { get; set; }
         private string bruger_id { get; set; }
+        public int booking_id { get; set; }
 
 
 
-        public Booking(string Id, DateTime Startdate, DateTime Slutdate, int Antal_pers, string Shelter_id, string Bruger_id)
+        public Booking( DateTime Startdate, DateTime Slutdate, int Antal_pers, string Shelter_id, string Bruger_id)
         {
-            _id = Id;
             startdate = Startdate;
             slutdate = Slutdate;
             antal_pers = Antal_pers;

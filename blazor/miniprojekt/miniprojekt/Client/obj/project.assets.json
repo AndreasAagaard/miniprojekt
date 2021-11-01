@@ -485,6 +485,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "MongoDB.Bson": "2.13.2",
           "MongoDB.Driver": "2.13.2",
           "Newtonsoft.Json": "13.0.1"
         },
@@ -946,6 +947,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "MongoDB.Bson": "2.13.2",
           "MongoDB.Driver": "2.13.2",
           "Newtonsoft.Json": "13.0.1"
         },
@@ -1788,40 +1790,40 @@
     "net5.0": [
       "Microsoft.AspNetCore.Components.WebAssembly >= 5.0.11",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 5.0.11",
+      "MongoDB.Bson >= 2.13.2",
+      "MongoDB.Driver >= 2.13.2",
       "Newtonsoft.Json >= 13.0.1",
       "System.Net.Http.Json >= 5.0.0",
       "miniprojekt.Shared >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\linek\\.nuget\\packages\\": {}
+    "/Users/andreasskovaagaard/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Client\\miniprojekt.Client.csproj",
+      "projectUniqueName": "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Client/miniprojekt.Client.csproj",
       "projectName": "miniprojekt.Client",
-      "projectPath": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Client\\miniprojekt.Client.csproj",
-      "packagesPath": "C:\\Users\\linek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Client\\obj\\",
+      "projectPath": "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Client/miniprojekt.Client.csproj",
+      "packagesPath": "/Users/andreasskovaagaard/.nuget/packages/",
+      "outputPath": "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Client/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\linek\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/andreasskovaagaard/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\miniprojekt.Shared.csproj": {
-              "projectPath": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\miniprojekt.Shared.csproj"
+            "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/miniprojekt.Shared.csproj": {
+              "projectPath": "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/miniprojekt.Shared.csproj"
             }
           }
         }
@@ -1845,6 +1847,14 @@
             "target": "Package",
             "version": "[5.0.11, )"
           },
+          "MongoDB.Bson": {
+            "target": "Package",
+            "version": "[2.13.2, )"
+          },
+          "MongoDB.Driver": {
+            "target": "Package",
+            "version": "[2.13.2, )"
+          },
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[13.0.1, )"
@@ -1867,7 +1877,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
-            "version": "[5.0.9, 5.0.9]"
+            "version": "[5.0.11, 5.0.11]"
           }
         ],
         "frameworkReferences": {
@@ -1875,7 +1885,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

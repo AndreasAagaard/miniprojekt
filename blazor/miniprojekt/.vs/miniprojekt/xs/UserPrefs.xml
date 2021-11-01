@@ -1,30 +1,43 @@
 ﻿<Properties StartupConfiguration="{31C7E837-733C-404D-BD8E-B079ED784583}|Default">
-  <MonoDevelop.Ide.ItemProperties.miniprojekt.Client FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="miniprojekt/Server/Controllers/ShelterController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="miniprojekt/Server/Controllers/WeatherForecastController.cs">
     <Files>
-      <File FileName="miniprojekt/Server/Controllers/ShelterController.cs" Line="23" Column="1" />
+      <File FileName="miniprojekt/Server/Controllers/WeatherForecastController.cs" Line="33" Column="37" />
+      <File FileName="miniprojekt/Server/appsettings.json" Line="1" Column="1" />
+      <File FileName="miniprojekt/Server/Program.cs" Line="1" Column="1" />
+      <File FileName="miniprojekt/Client/Pages/FetchData.razor" Line="35" Column="10" />
+      <File FileName="miniprojekt/Client/Pages/Counter.razor" Line="9" Column="23" />
+      <File FileName="miniprojekt/Client/wwwroot/css/styles.css" Line="10" Column="1" />
+      <File FileName="miniprojekt/Shared/Shelter.cs" Line="35" Column="25" />
+      <File FileName="miniprojekt/Client/Shared/Booking.cs" Line="29" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="miniprojekt" expanded="True">
             <Node name="miniprojekt.Client" expanded="True">
+              <Node name="Pages" expanded="True" />
               <Node name="Shared" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
             </Node>
             <Node name="miniprojekt.Server" expanded="True">
               <Node name="Controllers" expanded="True">
-                <Node name="ShelterController.cs" selected="True" />
+                <Node name="WeatherForecastController.cs" selected="True" />
               </Node>
             </Node>
+            <Node name="miniprojekt.Shared" expanded="True" />
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.miniprojekt.Server FirstBuild="True" PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.miniprojekt.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.miniprojekt.Shared FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
