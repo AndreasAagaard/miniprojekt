@@ -1,20 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "/lcg2+U3Yt6G0OkbFojDspGAUPwzXM4R5BHp8ScfcIHuKnSOfyRuyWJbIc5RateWS1ZycaP4aVM+4nI/yTJCxg==",
+  "dgSpecHash": "LcVNvkq4YJq3ap3Tz3vkqB/rk9zcj8Kenqxw/s9CeKYedc3YgvFyq+g3Pf3SiEaMeppU2RJ54YpmQrGq5xl3LA==",
   "success": true,
-  "projectFilePath": "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/miniprojekt.Shared.csproj",
+  "projectFilePath": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\miniprojekt.Shared.csproj",
   "expectedPackageFiles": [
-    "/Users/andreasskovaagaard/.nuget/packages/dnsclient/1.4.0/dnsclient.1.4.0.nupkg.sha512",
-    "/Users/andreasskovaagaard/.nuget/packages/microsoft.netcore.platforms/2.1.2/microsoft.netcore.platforms.2.1.2.nupkg.sha512",
-    "/Users/andreasskovaagaard/.nuget/packages/mongodb.bson/2.13.2/mongodb.bson.2.13.2.nupkg.sha512",
-    "/Users/andreasskovaagaard/.nuget/packages/mongodb.driver/2.13.2/mongodb.driver.2.13.2.nupkg.sha512",
-    "/Users/andreasskovaagaard/.nuget/packages/mongodb.driver.core/2.13.2/mongodb.driver.core.2.13.2.nupkg.sha512",
-    "/Users/andreasskovaagaard/.nuget/packages/mongodb.libmongocrypt/1.2.2/mongodb.libmongocrypt.1.2.2.nupkg.sha512",
-    "/Users/andreasskovaagaard/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
-    "/Users/andreasskovaagaard/.nuget/packages/sharpcompress/0.23.0/sharpcompress.0.23.0.nupkg.sha512",
-    "/Users/andreasskovaagaard/.nuget/packages/system.buffers/4.5.1/system.buffers.4.5.1.nupkg.sha512",
-    "/Users/andreasskovaagaard/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
-    "/Users/andreasskovaagaard/.nuget/packages/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg.sha512"
+    "C:\\Users\\linek\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
+    "C:\\Users\\linek\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\linek\\.nuget\\packages\\mongodb.bson\\2.13.2\\mongodb.bson.2.13.2.nupkg.sha512",
+    "C:\\Users\\linek\\.nuget\\packages\\mongodb.driver\\2.13.2\\mongodb.driver.2.13.2.nupkg.sha512",
+    "C:\\Users\\linek\\.nuget\\packages\\mongodb.driver.core\\2.13.2\\mongodb.driver.core.2.13.2.nupkg.sha512",
+    "C:\\Users\\linek\\.nuget\\packages\\mongodb.libmongocrypt\\1.2.2\\mongodb.libmongocrypt.1.2.2.nupkg.sha512",
+    "C:\\Users\\linek\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\linek\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
+    "C:\\Users\\linek\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\linek\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\linek\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
   ],
   "logs": []
 }
