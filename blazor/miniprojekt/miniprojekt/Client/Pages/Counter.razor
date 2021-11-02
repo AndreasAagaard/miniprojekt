@@ -59,6 +59,7 @@ else
                         <th>Antal pladser</th>
                         <th>Koordinater</th>
                         <th>@forecasts</th>
+                        <th>&nbsp;</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -71,6 +72,7 @@ else
                             <td>@forecast.properties.kommunekode</td>
                             <td>@forecast.properties.antal_pl</td>
                             <td>@forecast.geometry.coordinates</td>
+                            <td><button type="button" class="btn btn-outline-dark btn-sm" @onclick="() => OpenBookDialog()">Book</button></td>
                         </tr>
                     }
                     <tr>
@@ -80,6 +82,12 @@ else
             </table>
         </div>
     </body>
+
+    @if (BookDialogOpen)
+    {
+        <miniprojekt.Client.Components.ModalDialog Title="Du er ved at booke nedenstående" Text="Bekræft booking ved at trykke OK" OnClose="@OnBookDialogClose"></miniprojekt.Client.Components.ModalDialog>
+    }
+
 }
 
 
@@ -91,6 +99,20 @@ else
 
 
     private shelter[] forecasts;
+
+    public bool BookDialogOpen { get; set; }
+
+    private void OnBookDialogClose(bool accepted)
+    {
+        BookDialogOpen = false;
+        StateHasChanged();
+    }
+
+    private void OpenBookDialog()
+    {
+        BookDialogOpen = true;
+        StateHasChanged();
+    }
 
     protected override async Task OnInitializedAsync()
     {

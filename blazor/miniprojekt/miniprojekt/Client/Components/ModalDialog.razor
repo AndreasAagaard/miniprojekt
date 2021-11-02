@@ -1,0 +1,95 @@
+﻿@inject HttpClient Http
+
+<div class="modal fade show" id="myModal" style="display:block; background-color: rgba(10,10,10,.8);" aria-modal="true" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title">@Title</h4>
+                <button type="button" class="close" @onclick="@ModalCancel">&times;</button>
+            </div>
+            <div class="modal-body">
+                <p>@Text.</p>
+                <EditForm Model="@testBook" OnValidSubmit="@BookShelter">
+                    <DataAnnotationsValidator />
+                    <ValidationSummary />
+                    <p>
+                        <label>
+                            Shelter id:
+                            <InputText @bind-Value="@testBook.shelter_id" />
+                        </label>
+                    </p>
+                    <p>
+                        <label>
+                            Bruger id:
+                            <InputText @bind-Value="@testBook.bruger_id" />
+                        </label>
+                    </p>
+                    <p>
+                        <label>
+                            Antal Personer:
+                            <InputNumber @bind-Value="@testBook.antal_pers" />
+                        </label>
+                    </p>
+                    <p>
+                        <label>
+                            Startdato:
+                            <InputDate @bind-Value="@testBook.startdate" />
+                        </label>
+                    </p>
+                    <p>
+                        <label>
+                            Slutdato:
+                            <InputDate @bind-Value="@testBook.slutdate" />
+                        </label>
+                    </p>
+                    <button type="submit">Submit</button>
+                </EditForm>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" @onclick="@ModalOk">OK</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code{
+    [Parameter]
+    public string Title { get; set; }
+    [Parameter]
+    public string Text { get; set; }
+    [Parameter]
+    public EventCallback<bool> OnClose { get; set; }
+
+    private Task ModalCancel()
+    {
+        return OnClose.InvokeAsync(false);
+    }
+
+    private Task ModalOk()
+    {
+        return OnClose.InvokeAsync(true);
+    }
+
+
+
+
+
+    private shelter[] forecasts;
+    public Booking testBook = new() { booking_date = DateTime.Now };
+    private Booking book = new Booking(DateTime.Now, DateTime.Now, 8, "hej", "hov");
+    private void BookShelter()
+    {
+        postUser(testBook);
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        forecasts = await Http.GetFromJsonAsync<shelter[]>("WeatherForecast");
+    }
+
+    public Task<HttpResponseMessage> postUser(Booking booking)
+    {
+        return Http.PostAsJsonAsync<Booking>("post", booking);
+
+    }
+}

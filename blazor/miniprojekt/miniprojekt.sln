@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.11
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "miniprojekt.Server", "miniprojekt\Server\miniprojekt.Server.csproj", "{31C7E837-733C-404D-BD8E-B079ED784583}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "miniprojekt.Server", "miniprojekt\Server\miniprojekt.Server.csproj", "{31C7E837-733C-404D-BD8E-B079ED784583}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "miniprojekt.Client", "miniprojekt\Client\miniprojekt.Client.csproj", "{4F8629D0-CC15-439E-B24B-1676DF7C8CFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "miniprojekt.Client", "miniprojekt\Client\miniprojekt.Client.csproj", "{4F8629D0-CC15-439E-B24B-1676DF7C8CFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "miniprojekt.Shared", "miniprojekt\Shared\miniprojekt.Shared.csproj", "{D48D804E-24D5-4879-814A-FA6A20016E5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "miniprojekt.Shared", "miniprojekt\Shared\miniprojekt.Shared.csproj", "{D48D804E-24D5-4879-814A-FA6A20016E5D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
