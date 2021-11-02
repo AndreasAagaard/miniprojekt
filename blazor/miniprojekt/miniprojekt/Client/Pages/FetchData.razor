@@ -4,7 +4,45 @@
 
 <h1>Bookingoversigt</h1>
 
+
+<EditForm Model="@testBook" OnValidSubmit="@BookShelter">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    <p>
+        <label>
+            Shelter id:
+            <InputText @bind-Value="@testBook.shelter_id" />
+        </label>
+    </p>
+    <p>
+        <label>
+            Bruger id:
+            <InputText @bind-Value="@testBook.bruger_id" />
+        </label>
+    </p>
+    <p>
+        <label>
+            Antal Personer:
+            <InputNumber @bind-Value="@testBook.antal_pers" />
+        </label>
+    </p>
+    <p>
+        <label>
+            Startdato:
+            <InputDate @bind-Value="@testBook.startdate" />
+        </label>
+    </p>
+    <p>
+        <label>
+            Slutdato:
+            <InputDate @bind-Value="@testBook.slutdate" />
+        </label>
+    </p>
+    <button type="submit">Submit</button>
+</EditForm>
+<br />
 <p>Her ses alle bookinger af shelters.</p>
+
 
 @if (forecasts == null)
 {
@@ -12,43 +50,51 @@
 }
 else
 {
-<table class="table">
-    <thead>
-        <tr>
-            <th>Shelter_id</th>
-            <th>Startdate</th>
-            <th>Slutdato</th>
-            <th>Antal personer</th>
-            <th>Bruger_id</th>
-            <th>@forecasts</th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var forecast in forecasts)
-        {
-            Console.WriteLine(string.Join("\t", forecast));
+    <table class="table">
+        <thead>
             <tr>
-                <td>@forecast.properties.cvr_navn</td>
-                <td>@forecast.properties.navn</td>
+                <th>Shelter_id</th>
+                <th>Startdate</th>
+                <th>Slutdato</th>
+                <th>Antal personer</th>
+                <th>Bruger_id</th>
+                <th>@forecasts</th>
             </tr>
-        }
-    <tr>
-        <td>@forecasts</td>
-    </tr>
-    </tbody>
-</table>
+        </thead>
+        <tbody>
+            @foreach (var forecast in forecasts)
+            {
+                Console.WriteLine(string.Join("\t", forecast));
+                <tr>
+                    <td>@forecast.properties.cvr_navn</td>
+                    <td>@forecast.properties.navn</td>
+                </tr>
+            }
+            <tr>
+                <td>@forecasts</td>
+            </tr>
+        </tbody>
+    </table>
 }
 
 @code {
     private shelter[] forecasts;
+    public Booking testBook = new() { booking_date = DateTime.Now };
+    private Booking book = new Booking(DateTime.Now, DateTime.Now, 8, "hej", "hov");
+    private void BookShelter()
+    {
+        postUser(testBook);
+    }
 
     protected override async Task OnInitializedAsync()
     {
         forecasts = await Http.GetFromJsonAsync<shelter[]>("WeatherForecast");
-        
-        
     }
-    Booking testBook = new Booking(DateTime.Now, DateTime.Now.AddDays(1), 5, "Placeholder", "sadjsaBruger");
 
+    public Task<HttpResponseMessage> postUser(Booking booking)
+    {
+        return Http.PostAsJsonAsync<Booking>("post", booking);
+
+    }
 
 }

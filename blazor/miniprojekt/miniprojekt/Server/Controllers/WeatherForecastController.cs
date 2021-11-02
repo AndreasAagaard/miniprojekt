@@ -16,13 +16,11 @@ namespace miniprojekt.Server.Controllers
     public class WeatherForecastController : ControllerBase
     {
         private IMongoCollection<shelter> _sheltercollection;
-        private IMongoCollection<Booking> _bookingcollection;
 
         public WeatherForecastController(IMongoClient client)
         {
             var database = client.GetDatabase("shelterdb");
             _sheltercollection = database.GetCollection<shelter>("shelter");
-            _bookingcollection = database.GetCollection<Booking>("booking");
 
         }
 
@@ -32,14 +30,5 @@ namespace miniprojekt.Server.Controllers
             return _sheltercollection.Find(s => s.status == "Gældende / Vedtaget").ToList();
         }
 
-        [HttpPost]
-        public string Post(Booking booking)
-        {
-            int antalBooking = _bookingcollection.AsQueryable().Count();
-            booking.booking_id = antalBooking + 1;
-            _bookingcollection.InsertOne(booking);
-
-            return "Added Succesfully";
-        }
     }
 }

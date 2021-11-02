@@ -9,19 +9,18 @@ namespace miniprojekt.Client.Shared
 {
     public class Booking
     {
-        [BsonId]
-        [BsonRepresentation(BsonType.ObjectId)]
-        public string _id { get; set; }
-        private DateTime startdate { get; set; }
-        private DateTime slutdate { get; set; }
-        private int antal_pers { get; set; }
-        private string shelter_id { get; set; }
-        private string bruger_id { get; set; }
+        private string _id { get; set; }
+        public DateTime startdate { get; set; }
+        public DateTime slutdate { get; set; }
+        public int antal_pers { get; set; }
+        public string shelter_id { get; set; }
+        public string bruger_id { get; set; }
         public int booking_id { get; set; }
+        public DateTime booking_date { get; set; }
 
 
 
-        public Booking( DateTime Startdate, DateTime Slutdate, int Antal_pers, string Shelter_id, string Bruger_id)
+        public Booking(DateTime Startdate, DateTime Slutdate, int Antal_pers, string Shelter_id, string Bruger_id)
         {
             startdate = Startdate;
             slutdate = Slutdate;
@@ -31,7 +30,10 @@ namespace miniprojekt.Client.Shared
         }
 
 
+        public Booking()
+        {
 
+        }
 
     }
 }

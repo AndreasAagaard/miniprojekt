@@ -9,6 +9,18 @@ C:/Users/emili/Desktop/Skole/2Semester/Miniprojekt/blazor/miniprojekt/miniprojek
 C:/Users/emili/Desktop/Skole/2Semester/Miniprojekt/blazor/miniprojekt/miniprojekt/Shared/obj/Debug/net5.0/miniprojekt.Shared.dll
 C:/Users/emili/Desktop/Skole/2Semester/Miniprojekt/blazor/miniprojekt/miniprojekt/Shared/obj/Debug/net5.0/ref/miniprojekt.Shared.dll
 C:/Users/emili/Desktop/Skole/2Semester/Miniprojekt/blazor/miniprojekt/miniprojekt/Shared/obj/Debug/net5.0/miniprojekt.Shared.pdb
+C:/Users/linek/Documents/Erhvervsakademi Aarhus/2. semester/Datebasedesign/Miniprojekt/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/bin/Debug/net5.0/miniprojekt.Shared.deps.json
+C:/Users/linek/Documents/Erhvervsakademi Aarhus/2. semester/Datebasedesign/Miniprojekt/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/bin/Debug/net5.0/miniprojekt.Shared.dll
+C:/Users/linek/Documents/Erhvervsakademi Aarhus/2. semester/Datebasedesign/Miniprojekt/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/bin/Debug/net5.0/ref/miniprojekt.Shared.dll
+C:/Users/linek/Documents/Erhvervsakademi Aarhus/2. semester/Datebasedesign/Miniprojekt/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/bin/Debug/net5.0/miniprojekt.Shared.pdb
+C:/Users/linek/Documents/Erhvervsakademi Aarhus/2. semester/Datebasedesign/Miniprojekt/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/obj/Debug/net5.0/miniprojekt.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/linek/Documents/Erhvervsakademi Aarhus/2. semester/Datebasedesign/Miniprojekt/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/obj/Debug/net5.0/miniprojekt.Shared.AssemblyInfoInputs.cache
+C:/Users/linek/Documents/Erhvervsakademi Aarhus/2. semester/Datebasedesign/Miniprojekt/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/obj/Debug/net5.0/miniprojekt.Shared.AssemblyInfo.cs
+C:/Users/linek/Documents/Erhvervsakademi Aarhus/2. semester/Datebasedesign/Miniprojekt/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/obj/Debug/net5.0/miniprojekt.Shared.csproj.CoreCompileInputs.cache
+C:/Users/linek/Documents/Erhvervsakademi Aarhus/2. semester/Datebasedesign/Miniprojekt/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/obj/Debug/net5.0/miniprojekt.Shared.dll
+C:/Users/linek/Documents/Erhvervsakademi Aarhus/2. semester/Datebasedesign/Miniprojekt/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/obj/Debug/net5.0/ref/miniprojekt.Shared.dll
+C:/Users/linek/Documents/Erhvervsakademi Aarhus/2. semester/Datebasedesign/Miniprojekt/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/obj/Debug/net5.0/miniprojekt.Shared.pdb
+C:/Users/linek/Documents/Erhvervsakademi Aarhus/2. semester/Datebasedesign/Miniprojekt/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/obj/Debug/net5.0/miniprojekt.Shared.csproj.AssemblyReference.cache
 /Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/bin/Debug/net5.0/miniprojekt.Shared.deps.json
 /Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/bin/Debug/net5.0/miniprojekt.Shared.dll
 /Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/bin/Debug/net5.0/ref/miniprojekt.Shared.dll
@@ -20,15 +32,3 @@ C:/Users/emili/Desktop/Skole/2Semester/Miniprojekt/blazor/miniprojekt/miniprojek
 /Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/obj/Debug/net5.0/miniprojekt.Shared.dll
 /Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/obj/Debug/net5.0/ref/miniprojekt.Shared.dll
 /Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/obj/Debug/net5.0/miniprojekt.Shared.pdb
-C:\Users\linek\Documents\Erhvervsakademi Aarhus\2. semester\Datebasedesign\Miniprojekt\miniprojekt\blazor\miniprojekt\miniprojekt\Shared\bin\Debug\net5.0\miniprojekt.Shared.deps.json
-C:\Users\linek\Documents\Erhvervsakademi Aarhus\2. semester\Datebasedesign\Miniprojekt\miniprojekt\blazor\miniprojekt\miniprojekt\Shared\bin\Debug\net5.0\miniprojekt.Shared.dll
-C:\Users\linek\Documents\Erhvervsakademi Aarhus\2. semester\Datebasedesign\Miniprojekt\miniprojekt\blazor\miniprojekt\miniprojekt\Shared\bin\Debug\net5.0\ref\miniprojekt.Shared.dll
-C:\Users\linek\Documents\Erhvervsakademi Aarhus\2. semester\Datebasedesign\Miniprojekt\miniprojekt\blazor\miniprojekt\miniprojekt\Shared\bin\Debug\net5.0\miniprojekt.Shared.pdb
-C:\Users\linek\Documents\Erhvervsakademi Aarhus\2. semester\Datebasedesign\Miniprojekt\miniprojekt\blazor\miniprojekt\miniprojekt\Shared\obj\Debug\net5.0\miniprojekt.Shared.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\linek\Documents\Erhvervsakademi Aarhus\2. semester\Datebasedesign\Miniprojekt\miniprojekt\blazor\miniprojekt\miniprojekt\Shared\obj\Debug\net5.0\miniprojekt.Shared.AssemblyInfoInputs.cache
-C:\Users\linek\Documents\Erhvervsakademi Aarhus\2. semester\Datebasedesign\Miniprojekt\miniprojekt\blazor\miniprojekt\miniprojekt\Shared\obj\Debug\net5.0\miniprojekt.Shared.AssemblyInfo.cs
-C:\Users\linek\Documents\Erhvervsakademi Aarhus\2. semester\Datebasedesign\Miniprojekt\miniprojekt\blazor\miniprojekt\miniprojekt\Shared\obj\Debug\net5.0\miniprojekt.Shared.csproj.CoreCompileInputs.cache
-C:\Users\linek\Documents\Erhvervsakademi Aarhus\2. semester\Datebasedesign\Miniprojekt\miniprojekt\blazor\miniprojekt\miniprojekt\Shared\obj\Debug\net5.0\miniprojekt.Shared.dll
-C:\Users\linek\Documents\Erhvervsakademi Aarhus\2. semester\Datebasedesign\Miniprojekt\miniprojekt\blazor\miniprojekt\miniprojekt\Shared\obj\Debug\net5.0\ref\miniprojekt.Shared.dll
-C:\Users\linek\Documents\Erhvervsakademi Aarhus\2. semester\Datebasedesign\Miniprojekt\miniprojekt\blazor\miniprojekt\miniprojekt\Shared\obj\Debug\net5.0\miniprojekt.Shared.pdb
-C:\Users\linek\Documents\Erhvervsakademi Aarhus\2. semester\Datebasedesign\Miniprojekt\miniprojekt\blazor\miniprojekt\miniprojekt\Shared\obj\Debug\net5.0\miniprojekt.Shared.csproj.AssemblyReference.cache

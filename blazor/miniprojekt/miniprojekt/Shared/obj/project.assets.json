@@ -487,26 +487,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\linek\\.nuget\\packages\\": {}
+    "/Users/andreasskovaagaard/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\miniprojekt.Shared.csproj",
+      "projectUniqueName": "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/miniprojekt.Shared.csproj",
       "projectName": "miniprojekt.Shared",
-      "projectPath": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\miniprojekt.Shared.csproj",
-      "packagesPath": "C:\\Users\\linek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\obj\\",
+      "projectPath": "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/miniprojekt.Shared.csproj",
+      "packagesPath": "/Users/andreasskovaagaard/.nuget/packages/",
+      "outputPath": "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\linek\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/andreasskovaagaard/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -553,7 +551,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
       }
     }
   }

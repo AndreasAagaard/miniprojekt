@@ -1,14 +1,14 @@
 ﻿<Properties StartupConfiguration="{31C7E837-733C-404D-BD8E-B079ED784583}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="miniprojekt/Server/Controllers/WeatherForecastController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="miniprojekt/Server/Controllers/postController.cs">
     <Files>
-      <File FileName="miniprojekt/Server/Controllers/WeatherForecastController.cs" Line="33" Column="37" />
-      <File FileName="miniprojekt/Server/appsettings.json" Line="1" Column="1" />
-      <File FileName="miniprojekt/Server/Program.cs" Line="1" Column="1" />
-      <File FileName="miniprojekt/Client/Pages/FetchData.razor" Line="35" Column="10" />
-      <File FileName="miniprojekt/Client/Pages/Counter.razor" Line="9" Column="23" />
-      <File FileName="miniprojekt/Client/wwwroot/css/styles.css" Line="10" Column="1" />
-      <File FileName="miniprojekt/Shared/Shelter.cs" Line="35" Column="25" />
-      <File FileName="miniprojekt/Client/Shared/Booking.cs" Line="29" Column="37" />
+      <File FileName="miniprojekt/Server/Controllers/WeatherForecastController.cs" Line="27" Column="8" />
+      <File FileName="miniprojekt/Server/Controllers/postController.cs" Line="15" Column="28" />
+      <File FileName="miniprojekt/Server/appsettings.json" />
+      <File FileName="miniprojekt/Server/Program.cs" />
+      <File FileName="miniprojekt/Client/Pages/FetchData.razor" Line="14" Column="40" />
+      <File FileName="miniprojekt/Client/Pages/Counter.razor" />
+      <File FileName="miniprojekt/Shared/Shelter.cs" />
+      <File FileName="miniprojekt/Client/Shared/Booking.cs" Line="20" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -23,15 +23,13 @@
             </Node>
             <Node name="miniprojekt.Server" expanded="True">
               <Node name="Controllers" expanded="True">
-                <Node name="WeatherForecastController.cs" selected="True" />
+                <Node name="postController.cs" selected="True" />
               </Node>
+              <Node name="Pages" expanded="True" />
             </Node>
             <Node name="miniprojekt.Shared" expanded="True" />
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
