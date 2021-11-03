@@ -14,39 +14,44 @@
                     <ValidationSummary />
                     <p>
                         <label>
-                            Shelter id:
-                            <InputText @bind-Value="@testBook.shelter_id" />
+                            Indtast Navn:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <InputText @bind-Value="@testBook.navn" />
                         </label>
                     </p>
                     <p>
                         <label>
-                            Bruger id:
-                            <InputText @bind-Value="@testBook.bruger_id" />
+                            Indtast Telefonnr:
+                            <InputText @bind-Value="@testBook.telefon" />
                         </label>
                     </p>
                     <p>
                         <label>
-                            Antal Personer:
+                            Indtast Email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <InputText @bind-Value="@testBook.email" />
+                        </label>
+                    </p>
+                    <p>
+                        <label>
+                            Antal Personer:&nbsp;&nbsp;&nbsp;
                             <InputNumber @bind-Value="@testBook.antal_pers" />
                         </label>
                     </p>
                     <p>
                         <label>
-                            Startdato:
+                            Startdato:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                             <InputDate @bind-Value="@testBook.startdate" />
                         </label>
                     </p>
                     <p>
                         <label>
-                            Slutdato:
+                            Slutdato:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                             <InputDate @bind-Value="@testBook.slutdate" />
                         </label>
                     </p>
-                    <button type="submit">Submit</button>
+                    <div class="modal-footer">
+                        <button class="btn btn-primary" type="submit">Submit</button>
+                    </div>
                 </EditForm>
-            </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-primary" @onclick="@ModalOk">OK</button>
             </div>
         </div>
     </div>
@@ -71,25 +76,16 @@
     }
 
 
-
-
-
-    private shelter[] forecasts;
-    public Booking testBook = new() { booking_date = DateTime.Now };
-    private Booking book = new Booking(DateTime.Now, DateTime.Now, 8, "hej", "hov");
-    private void BookShelter()
+    public static Booking testBook = new() { booking_date = DateTime.Now };
+    private Task BookShelter()
     {
         postUser(testBook);
-    }
-
-    protected override async Task OnInitializedAsync()
-    {
-        forecasts = await Http.GetFromJsonAsync<shelter[]>("WeatherForecast");
+        return OnClose.InvokeAsync(true);
     }
 
     public Task<HttpResponseMessage> postUser(Booking booking)
     {
-        return Http.PostAsJsonAsync<Booking>("post", booking);
+        return Http.PostAsJsonAsync<Booking>("Booking", booking);
 
     }
 }

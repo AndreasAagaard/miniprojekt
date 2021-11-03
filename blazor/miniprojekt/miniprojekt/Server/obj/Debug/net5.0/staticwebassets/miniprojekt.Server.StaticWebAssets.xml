@@ -1,5 +1,5 @@
 ﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/" Path="C:\Users\linek\Documents\Erhvervsakademi Aarhus\2. semester\Datebasedesign\Miniprojekt_ny\miniprojekt\blazor\miniprojekt\miniprojekt\Client\bin\Debug\net5.0\wwwroot\" />
-  <ContentRoot BasePath="/" Path="C:\Users\linek\Documents\Erhvervsakademi Aarhus\2. semester\Datebasedesign\Miniprojekt_ny\miniprojekt\blazor\miniprojekt\miniprojekt\Client\obj\Debug\net5.0\scopedcss\bundle\" />
-  <ContentRoot BasePath="/" Path="C:\Users\linek\Documents\Erhvervsakademi Aarhus\2. semester\Datebasedesign\Miniprojekt_ny\miniprojekt\blazor\miniprojekt\miniprojekt\Client\wwwroot\" />
+  <ContentRoot BasePath="/" Path="/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Client/bin/Debug/net5.0/wwwroot/" />
+  <ContentRoot BasePath="/" Path="/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Client/obj/Debug/net5.0/scopedcss/bundle/" />
+  <ContentRoot BasePath="/" Path="/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Client/wwwroot/" />
 </StaticWebAssets>

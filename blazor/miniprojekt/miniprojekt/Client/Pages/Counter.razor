@@ -1,5 +1,9 @@
 ﻿@using System.Collections.Generic;
 @using miniprojekt.Shared
+@using miniprojekt.Client.Components 
+@using MongoDB.Bson;
+@using MongoDB.Driver;
+
 @inject HttpClient Http
 @page "/shelterbooking"
 
@@ -7,7 +11,7 @@
 
 <p>Her kan du se alle shelters og foretage bookinger.<br /><b>Bemærk!</b> En booking er gyldig fra kl. 12.00 på startdatoen til kl. 12.00 på slutdatoen.</p>
 
-@if (forecasts == null)
+@if (shelters == null)
 {
     <p><em>Loading...</em></p>
 }
@@ -21,6 +25,7 @@ else
                 height: 450px;
                 overflow-x: auto;
                 width: 1000px;
+                border-radius: 0.5%;
             }
 
                 .tableFixHead thead th {
@@ -54,30 +59,21 @@ else
                 <thead>
                     <tr>
                         <th>Navn</th>
-                        <th>Cvr-navn</th>
-                        <th>Kommunekode</th>
+                        <th>Kommune</th>
                         <th>Antal pladser</th>
-                        <th>Koordinater</th>
-                        <th>@forecasts</th>
-                        <th>&nbsp;</th>
+                        <th>Book</th>
                     </tr>
                 </thead>
                 <tbody>
-                    @foreach (var forecast in forecasts)
+                    @foreach (var shelter in shelters)
                     {
-                        Console.WriteLine(string.Join("\t", forecast));
                         <tr>
-                            <td>@forecast.properties.navn</td>
-                            <td>@forecast.properties.cvr_navn</td>
-                            <td>@forecast.properties.kommunekode</td>
-                            <td>@forecast.properties.antal_pl</td>
-                            <td>@forecast.geometry.coordinates</td>
-                            <td><button type="button" class="btn btn-outline-dark btn-sm" @onclick="() => OpenBookDialog()">Book</button></td>
+                            <td>@shelter.properties.navn</td>
+                            <td>@shelter.properties.cvr_navn</td>
+                            <td>@shelter.properties.antal_pl</td>
+                            <td><button type="button" class="btn btn-outline-dark btn-sm" @onclick="() => OpenBookDialog(shelter._id)">Book</button></td>
                         </tr>
                     }
-                    <tr>
-                        <td>@forecasts</td>
-                    </tr>
                 </tbody>
             </table>
         </div>
@@ -95,10 +91,8 @@ else
 
 
 @code {
-    //List<string> shelterliste = new List<string>() { "Shelter1", "Shelter2", "Shelter3" };
 
-
-    private shelter[] forecasts;
+    private shelter[] shelters;
 
     public bool BookDialogOpen { get; set; }
 
@@ -106,21 +100,23 @@ else
     {
         BookDialogOpen = false;
         StateHasChanged();
+
     }
 
-    private void OpenBookDialog()
+    private void OpenBookDialog(string id)
     {
+
         BookDialogOpen = true;
+        ModalDialog.testBook.shelter_id = id;
         StateHasChanged();
     }
 
     protected override async Task OnInitializedAsync()
     {
-        forecasts = await Http.GetFromJsonAsync<shelter[]>("WeatherForecast");
-
+        shelters = await Http.GetFromJsonAsync<shelter[]>("Shelter");
 
     }
-    Booking testBook = new Booking(DateTime.Now, DateTime.Now.AddDays(1), 5, "Placeholder", "sadjsaBruger");
+
 
 
 

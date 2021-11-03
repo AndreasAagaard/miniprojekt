@@ -13,11 +13,11 @@ namespace miniprojekt.Server.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class WeatherForecastController : ControllerBase
+    public class ShelterController : ControllerBase
     {
         private IMongoCollection<shelter> _sheltercollection;
 
-        public WeatherForecastController(IMongoClient client)
+        public ShelterController(IMongoClient client)
         {
             var database = client.GetDatabase("shelterdb");
             _sheltercollection = database.GetCollection<shelter>("shelter");

@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt_ny\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Client\\miniprojekt.Client.csproj": {}
+    "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Client/miniprojekt.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt_ny\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Client\\miniprojekt.Client.csproj": {
+    "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Client/miniprojekt.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt_ny\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Client\\miniprojekt.Client.csproj",
+        "projectUniqueName": "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Client/miniprojekt.Client.csproj",
         "projectName": "miniprojekt.Client",
-        "projectPath": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt_ny\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Client\\miniprojekt.Client.csproj",
-        "packagesPath": "C:\\Users\\linek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt_ny\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Client\\obj\\",
+        "projectPath": "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Client/miniprojekt.Client.csproj",
+        "packagesPath": "/Users/andreasskovaagaard/.nuget/packages/",
+        "outputPath": "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\linek\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/andreasskovaagaard/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt_ny\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\miniprojekt.Shared.csproj": {
-                "projectPath": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt_ny\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\miniprojekt.Shared.csproj"
+              "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/miniprojekt.Shared.csproj": {
+                "projectPath": "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/miniprojekt.Shared.csproj"
               }
             }
           }
@@ -83,7 +81,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
-              "version": "[5.0.9, 5.0.9]"
+              "version": "[5.0.11, 5.0.11]"
             }
           ],
           "frameworkReferences": {
@@ -91,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -100,24 +98,22 @@
         }
       }
     },
-    "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt_ny\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\miniprojekt.Shared.csproj": {
+    "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/miniprojekt.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt_ny\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\miniprojekt.Shared.csproj",
+        "projectUniqueName": "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/miniprojekt.Shared.csproj",
         "projectName": "miniprojekt.Shared",
-        "projectPath": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt_ny\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\miniprojekt.Shared.csproj",
-        "packagesPath": "C:\\Users\\linek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt_ny\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\obj\\",
+        "projectPath": "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/miniprojekt.Shared.csproj",
+        "packagesPath": "/Users/andreasskovaagaard/.nuget/packages/",
+        "outputPath": "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\linek\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/andreasskovaagaard/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -164,7 +160,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }

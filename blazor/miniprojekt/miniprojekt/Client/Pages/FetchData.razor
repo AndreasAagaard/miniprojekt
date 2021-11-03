@@ -4,97 +4,63 @@
 
 <h1>Bookingoversigt</h1>
 
-
-<EditForm Model="@testBook" OnValidSubmit="@BookShelter">
-    <DataAnnotationsValidator />
-    <ValidationSummary />
-    <p>
-        <label>
-            Shelter id:
-            <InputText @bind-Value="@testBook.shelter_id" />
-        </label>
-    </p>
-    <p>
-        <label>
-            Bruger id:
-            <InputText @bind-Value="@testBook.bruger_id" />
-        </label>
-    </p>
-    <p>
-        <label>
-            Antal Personer:
-            <InputNumber @bind-Value="@testBook.antal_pers" />
-        </label>
-    </p>
-    <p>
-        <label>
-            Startdato:
-            <InputDate @bind-Value="@testBook.startdate" />
-        </label>
-    </p>
-    <p>
-        <label>
-            Slutdato:
-            <InputDate @bind-Value="@testBook.slutdate" />
-        </label>
-    </p>
-    <button type="submit">Submit</button>
-</EditForm>
-<br />
-<p>Her ses alle bookinger af shelters.</p>
+    <br />
+    <p>Her ses alle bookinger af shelters.</p>
 
 
-@if (forecasts == null)
-{
-    <p><em>Loading...</em></p>
-}
-else
-{
-    <table class="table">
-        <thead>
-            <tr>
-                <th>Shelter_id</th>
-                <th>Startdate</th>
-                <th>Slutdato</th>
-                <th>Antal personer</th>
-                <th>Bruger_id</th>
-                <th>@forecasts</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var forecast in forecasts)
-            {
-                Console.WriteLine(string.Join("\t", forecast));
+    @if (bookings == null)
+    {
+        <p><em>Loading...</em></p>
+    }
+    else
+    {
+        <table class="table">
+            <thead>
                 <tr>
-                    <td>@forecast.properties.cvr_navn</td>
-                    <td>@forecast.properties.navn</td>
+                    <th>Shelter_id</th>
+                    <th>Startdate</th>
+                    <th>Slutdato</th>
+                    <th>Antal personer</th>
+                    <th>Navn</th>
+                    <th>Telefonnummer</th>
+                    <th>Email</th>
                 </tr>
-            }
-            <tr>
-                <td>@forecasts</td>
-            </tr>
-        </tbody>
-    </table>
-}
+            </thead>
+            <tbody>
+                @foreach (var booking in bookings)
+                {
+                <tr>
+                    <td>@booking.shelter_id</td>
+                    <td>@booking.startdate</td>
+                    <td>@booking.slutdate</td>
+                    <td>@booking.antal_pers</td>
+                    <td>@booking.navn</td>
+                    <td>@booking.telefon</td>
+                    <td>@booking.email</td>
 
-@code {
-    private shelter[] forecasts;
-    public Booking testBook = new() { booking_date = DateTime.Now };
-    private Booking book = new Booking(DateTime.Now, DateTime.Now, 8, "hej", "hov");
-    private void BookShelter()
-    {
-        postUser(testBook);
+                </tr>
+                }
+            </tbody>
+        </table>
     }
 
-    protected override async Task OnInitializedAsync()
-    {
-        forecasts = await Http.GetFromJsonAsync<shelter[]>("WeatherForecast");
+    @code {
+        private Booking[] bookings;
+        public Booking testBook = new() { booking_date = DateTime.Now };
+        private void BookShelter()
+        {
+            postUser(testBook);
+        }
+
+        protected override async Task OnInitializedAsync()
+        {
+            bookings = await Http.GetFromJsonAsync<Booking[]>("Booking");
+        }
+
+        public Task<HttpResponseMessage> postUser(Booking booking)
+        {
+            return Http.PostAsJsonAsync<Booking>("Booking", booking);
+
+        }
+
     }
-
-    public Task<HttpResponseMessage> postUser(Booking booking)
-    {
-        return Http.PostAsJsonAsync<Booking>("post", booking);
-
-    }
-
-}

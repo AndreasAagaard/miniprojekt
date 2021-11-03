@@ -1,37 +1,37 @@
-.navbar-toggler[b-y8jqraw8yx] {
+.navbar-toggler[b-wjl8ym9vx3] {
     background-color: rgba(255, 255, 255, 0.1);
 }
 
-.top-row[b-y8jqraw8yx] {
+.top-row[b-wjl8ym9vx3] {
     height: 3.5rem;
     background-color: rgba(0,0,0,0.4);
 }
 
-.navbar-brand[b-y8jqraw8yx] {
+.navbar-brand[b-wjl8ym9vx3] {
     font-size: 1.1rem;
 }
 
-.oi[b-y8jqraw8yx] {
+.oi[b-wjl8ym9vx3] {
     width: 2rem;
     font-size: 1.1rem;
     vertical-align: text-top;
     top: -2px;
 }
 
-.nav-item[b-y8jqraw8yx] {
+.nav-item[b-wjl8ym9vx3] {
     font-size: 0.9rem;
     padding-bottom: 0.5rem;
 }
 
-    .nav-item:first-of-type[b-y8jqraw8yx] {
+    .nav-item:first-of-type[b-wjl8ym9vx3] {
         padding-top: 1rem;
     }
 
-    .nav-item:last-of-type[b-y8jqraw8yx] {
+    .nav-item:last-of-type[b-wjl8ym9vx3] {
         padding-bottom: 1rem;
     }
 
-    .nav-item[b-y8jqraw8yx]  a {
+    .nav-item[b-wjl8ym9vx3]  a {
         color: #d7d7d7;
         border-radius: 4px;
         height: 3rem;
@@ -40,22 +40,22 @@
         line-height: 3rem;
     }
 
-.nav-item[b-y8jqraw8yx]  a.active {
+.nav-item[b-wjl8ym9vx3]  a.active {
     background-color: rgba(255,255,255,0.25);
     color: white;
 }
 
-.nav-item[b-y8jqraw8yx]  a:hover {
+.nav-item[b-wjl8ym9vx3]  a:hover {
     background-color: rgba(255,255,255,0.1);
     color: white;
 }
 
 @media (min-width: 641px) {
-    .navbar-toggler[b-y8jqraw8yx] {
+    .navbar-toggler[b-wjl8ym9vx3] {
         display: none;
     }
 
-    .collapse[b-y8jqraw8yx] {
+    .collapse[b-wjl8ym9vx3] {
         /* Never collapse the sidebar for wide screens */
         display: block;
     }

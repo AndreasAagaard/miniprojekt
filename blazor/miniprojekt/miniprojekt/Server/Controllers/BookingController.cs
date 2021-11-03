@@ -14,11 +14,11 @@ namespace miniprojekt.Server.Controllers
     [ApiController]
     [Route("[controller]")]
 
-    public class postController : ControllerBase
+    public class BookingController : ControllerBase
     {
         private IMongoCollection<Booking> _bookingcollection;
 
-        public postController(IMongoClient client)
+        public BookingController(IMongoClient client)
         {
             var database = client.GetDatabase("shelterdb");
             _bookingcollection = database.GetCollection<Booking>("booking");
@@ -28,7 +28,7 @@ namespace miniprojekt.Server.Controllers
         [HttpGet]
         public IEnumerable<Booking> Get()
         {
-            return _bookingcollection.Find(b => b.booking_id > 0).ToList();
+            return _bookingcollection.Find(b => true).ToList();
         }
 
         [HttpPost]
@@ -40,6 +40,15 @@ namespace miniprojekt.Server.Controllers
 
             return "Added Succesfully";
         }
+
+        [HttpPut]
+        public string Put(ObjectId id)
+        {
+            var filter = Builders<Booking>.Filter.Eq("shelter_id", BsonNull.Value);
+            var update = Builders<Booking>.Update.Set("shelter_id", id);
+
+            return "Updated Succesfully";
+        } 
 
     }
 }

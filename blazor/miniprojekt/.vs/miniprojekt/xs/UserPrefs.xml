@@ -1,31 +1,29 @@
 ﻿<Properties StartupConfiguration="{31C7E837-733C-404D-BD8E-B079ED784583}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="miniprojekt/Server/Controllers/postController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="miniprojekt/Client/Components/ModalDialog.razor">
     <Files>
-      <File FileName="miniprojekt/Server/Controllers/WeatherForecastController.cs" Line="27" Column="8" />
-      <File FileName="miniprojekt/Server/Controllers/postController.cs" Line="15" Column="28" />
-      <File FileName="miniprojekt/Server/appsettings.json" />
+      <File FileName="miniprojekt/Server/appsettings.json" Line="10" Column="27" />
       <File FileName="miniprojekt/Server/Program.cs" />
-      <File FileName="miniprojekt/Client/Pages/FetchData.razor" Line="14" Column="40" />
-      <File FileName="miniprojekt/Client/Pages/Counter.razor" />
+      <File FileName="miniprojekt/Client/Pages/FetchData.razor" Line="53" Column="10" />
+      <File FileName="miniprojekt/Client/Pages/Counter.razor" Line="95" Column="1" />
       <File FileName="miniprojekt/Shared/Shelter.cs" />
-      <File FileName="miniprojekt/Client/Shared/Booking.cs" Line="20" Column="1" />
+      <File FileName="miniprojekt/Client/Shared/Booking.cs" />
+      <File FileName="miniprojekt/Client/Components/ModalDialog.razor" Line="55" Column="19" />
+      <File FileName="miniprojekt/Server/Controllers/BookingController.cs" />
+      <File FileName="miniprojekt/Server/Controllers/ShelterController.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="miniprojekt" expanded="True">
             <Node name="miniprojekt.Client" expanded="True">
+              <Node name="Components" expanded="True">
+                <Node name="ModalDialog.razor" selected="True" />
+              </Node>
               <Node name="Pages" expanded="True" />
               <Node name="Shared" expanded="True" />
-              <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True" />
-              </Node>
             </Node>
             <Node name="miniprojekt.Server" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="postController.cs" selected="True" />
-              </Node>
-              <Node name="Pages" expanded="True" />
+              <Node name="Controllers" expanded="True" />
             </Node>
             <Node name="miniprojekt.Shared" expanded="True" />
           </Node>
