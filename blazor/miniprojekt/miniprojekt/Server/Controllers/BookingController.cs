@@ -31,6 +31,12 @@ namespace miniprojekt.Server.Controllers
             return _bookingcollection.Find(b => true).ToList();
         }
 
+        [HttpGet("{id:length(24)}", Name = "GetBooking")]
+        public Booking Get(string id)
+        {
+            return _bookingcollection.Find(b => b._id == id).FirstOrDefault();
+        }
+
         [HttpPost]
         public string Post(Booking booking)
         {
@@ -42,13 +48,21 @@ namespace miniprojekt.Server.Controllers
         }
 
         [HttpPut]
-        public string Put(ObjectId id)
+        public string Put(string id)
         {
             var filter = Builders<Booking>.Filter.Eq("shelter_id", BsonNull.Value);
             var update = Builders<Booking>.Update.Set("shelter_id", id);
 
             return "Updated Succesfully";
-        } 
+        }
 
+        [HttpDelete("{id:length(24)}", Name = "DeleteBooking")]
+        public IActionResult Delete(string id)
+        {
+            var filter = Builders<Booking>.Filter.Eq("_id", id);
+            _ = _bookingcollection.DeleteOne(filter);
+            return NoContent();
+            
+        }
     }
 }

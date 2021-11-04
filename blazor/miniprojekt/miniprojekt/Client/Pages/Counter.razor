@@ -71,7 +71,7 @@ else
                             <td>@shelter.properties.navn</td>
                             <td>@shelter.properties.cvr_navn</td>
                             <td>@shelter.properties.antal_pl</td>
-                            <td><button type="button" class="btn btn-outline-dark btn-sm" @onclick="() => OpenBookDialog(shelter._id)">Book</button></td>
+                            <td><button type="button" class="btn btn-outline-dark btn-sm" @onclick="() => OpenBookDialog(shelter._id, shelter.properties.navn)">Book</button></td>
                         </tr>
                     }
                 </tbody>
@@ -103,11 +103,12 @@ else
 
     }
 
-    private void OpenBookDialog(string id)
+    private void OpenBookDialog(string id, string navn)
     {
 
         BookDialogOpen = true;
         ModalDialog.testBook.shelter_id = id;
+        ModalDialog.testBook.shelter_navn = navn;
         StateHasChanged();
     }
 

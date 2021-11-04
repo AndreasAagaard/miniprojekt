@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-2jBXkic2IRx8iqd8oMMTl8psg2cbxN1XnOE1t+tUaLE=",
+      "hash": "sha256-F64QFXXUjJTRUZZKRqqodjd6e\/KD4KDqUl5fkgzTYHM=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -821,11 +821,11 @@
       "url": "_framework\/miniprojekt.Shared.pdb"
     },
     {
-      "hash": "sha256-gcSD\/bDJkCLQpeQPPd238rVRmmaEQGGH1wVKyF\/LWS4=",
+      "hash": "sha256-ZnkjB8ZXPUrQ+SWEZF6hGSjEX1SlbNdJd7LnwJLbf2w=",
       "url": "_framework\/miniprojekt.Client.dll"
     },
     {
-      "hash": "sha256-+4\/wr+O2lZpxSHNzEiljPpOB4ppxFTmpQH3yrHYpLyA=",
+      "hash": "sha256-V53Fi5Jn1qH3GH7xB0piaszPWHhBvJvAiGg5zXbwhaY=",
       "url": "_framework\/miniprojekt.Client.pdb"
     },
     {
@@ -1709,13 +1709,13 @@
       "url": "manifest.json"
     },
     {
-      "hash": "sha256-CVqnB6v133RCl2ULuyY0TtVSmN3hq\/e3ViLXZ0PyYH0=",
+      "hash": "sha256-FGaEU3XqPAfGJImf2wZIFBxYqWDBLoK92HRZMjRv49Y=",
       "url": "miniprojekt.Client.styles.css"
     },
     {
-      "hash": "sha256-j9gly4+tCv6lrFspm48pDE6LMKCv3aDjKU04hY2WRk4=",
+      "hash": "sha256-IcwBphNbHQhMnsMVjA7R2PeYyWB1nb+EZLp+VEFgV3k=",
       "url": "miniprojekt.Client.bundle.scp.css"
     }
   ],
-  "version": "SrjAwrXO"
+  "version": "\/WWHwkru"
 };

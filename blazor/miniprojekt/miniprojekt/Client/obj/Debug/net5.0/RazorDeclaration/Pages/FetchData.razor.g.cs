@@ -98,31 +98,51 @@ using miniprojekt.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 47 "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Client/Pages/FetchData.razor"
-           
-        private Booking[] bookings;
-        public Booking testBook = new() { booking_date = DateTime.Now };
-        private void BookShelter()
+#line 51 "/Users/andreasskovaagaard/Dropbox/EAAA/IT-Arkitektur/Kode/Databasedesign/MongoDB_VSC/mini-shelter/miniprojekt/blazor/miniprojekt/miniprojekt/Client/Pages/FetchData.razor"
+       
+    private shelter shelly;
+    private Booking[] bookings;
+    public Booking testBook = new() { booking_date = DateTime.Now };
+
+    private async void deleteControl(Booking book)
+    {
+        await deleteBooking(book);
+        uriHelper.NavigateTo(uriHelper.Uri, forceLoad: true);
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        bookings = await Http.GetFromJsonAsync<Booking[]>("Booking");
+    }
+
+    public Task<HttpResponseMessage> postUser(Booking booking)
+    {
+        return Http.PostAsJsonAsync<Booking>("Booking", booking);
+
+    }
+
+    public async Task getShelter(string id)
+    {
+        shelly = await Http.GetFromJsonAsync<shelter>($"Shelter/{id}");
+
+    }
+
+    protected async Task deleteBooking(Booking book)
+    {
+        bool confirmed = await JsRuntime.InvokeAsync<bool>("confirm", "Are you sure?");
+        if (confirmed)
         {
-            postUser(testBook);
+            await Http.DeleteAsync($"Booking/{book._id}");
         }
+    }
 
-        protected override async Task OnInitializedAsync()
-        {
-            bookings = await Http.GetFromJsonAsync<Booking[]>("Booking");
-        }
 
-        public Task<HttpResponseMessage> postUser(Booking booking)
-        {
-            return Http.PostAsJsonAsync<Booking>("Booking", booking);
-
-        }
-
-    
 
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private IJSRuntime JsRuntime { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager uriHelper { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private HttpClient Http { get; set; }
     }
 }

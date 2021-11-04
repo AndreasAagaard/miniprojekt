@@ -13,6 +13,7 @@ namespace miniprojekt.Server.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+
     public class ShelterController : ControllerBase
     {
         private IMongoCollection<shelter> _sheltercollection;
@@ -30,5 +31,10 @@ namespace miniprojekt.Server.Controllers
             return _sheltercollection.Find(s => s.status == "Gældende / Vedtaget").ToList();
         }
 
+        [HttpGet("{id:length(24)}", Name = "GetShelter")]
+        public ActionResult<shelter> Get(string id)
+        {
+            return _sheltercollection.Find(s => s._id == id).FirstOrDefault();
+        }
     }
 }

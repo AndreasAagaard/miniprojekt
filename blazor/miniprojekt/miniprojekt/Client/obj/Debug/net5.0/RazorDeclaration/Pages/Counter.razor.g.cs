@@ -139,11 +139,12 @@ using MongoDB.Driver;
 
     }
 
-    private void OpenBookDialog(string id)
+    private void OpenBookDialog(string id, string navn)
     {
 
         BookDialogOpen = true;
         ModalDialog.testBook.shelter_id = id;
+        ModalDialog.testBook.shelter_navn = navn;
         StateHasChanged();
     }
 

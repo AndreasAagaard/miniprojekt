@@ -16,6 +16,7 @@ namespace miniprojekt.Client.Shared
         public DateTime slutdate { get; set; }
         public int antal_pers { get; set; }
         public string shelter_id { get; set; }
+        public string shelter_navn { get; set; }
         public string navn { get; set; }
         public string telefon { get; set; }
         public string email { get; set; }
