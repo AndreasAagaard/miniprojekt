@@ -1,8 +1,13 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
+<<<<<<< HEAD
       "C:\\Users\\emili\\.dotnet\\store\\|arch|\\|tfm|",
       "C:\\Users\\emili\\.nuget\\packages"
+=======
+      "C:\\Users\\linek\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\linek\\.nuget\\packages"
+>>>>>>> 927f1168cb1d6b556302fc6ab59aee1a90f58f2e
     ]
   }
 }

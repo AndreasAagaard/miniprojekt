@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\emili\\Desktop\\Skole\\2Semester\\Miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\miniprojekt.Shared.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt_04.11\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\miniprojekt.Shared.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt_04.11\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\miniprojekt.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt_04.11\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\miniprojekt.Shared.csproj",
+        "projectName": "miniprojekt.Shared",
+        "projectPath": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt_04.11\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\miniprojekt.Shared.csproj",
+        "packagesPath": "C:\\Users\\linek\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt_04.11\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\linek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 927f1168cb1d6b556302fc6ab59aee1a90f58f2e
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

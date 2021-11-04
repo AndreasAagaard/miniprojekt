@@ -98,7 +98,7 @@ using miniprojekt.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 51 "C:\Users\emili\Desktop\Skole\2Semester\Miniprojekt\blazor\miniprojekt\miniprojekt\Client\Pages\FetchData.razor"
+#line 124 "C:\Users\emili\Desktop\Skole\2Semester\Miniprojekt\blazor\miniprojekt\miniprojekt\Client\Pages\FetchData.razor"
        
     private shelter shelly;
     private Booking[] bookings;
@@ -129,7 +129,7 @@ using miniprojekt.Shared;
 
     protected async Task deleteBooking(Booking book)
     {
-        bool confirmed = await JsRuntime.InvokeAsync<bool>("confirm", "Are you sure?");
+        bool confirmed = await JsRuntime.InvokeAsync<bool>("confirm", "Er du sikker på, at du vil slette bookingen?");
         if (confirmed)
         {
             await Http.DeleteAsync($"Booking/{book._id}");

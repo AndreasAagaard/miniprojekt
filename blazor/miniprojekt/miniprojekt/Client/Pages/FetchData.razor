@@ -16,7 +16,80 @@
 }
 else
 {
-    <table class="table">
+    <head>
+        <title>Booking</title>
+        <style>
+            .tableFixHead {
+                overflow-y: auto;
+                height: 450px;
+                overflow-x: auto;
+                width: 1000px;
+                border-radius: 0.5%;
+            }
+
+                .tableFixHead thead th {
+                    position: sticky;
+                    top: 0;
+                }
+
+            table {
+                border-collapse: collapse;
+                width: 100%;
+            }
+
+            td {
+                padding: 8px 16px;
+                border: 1px solid #ccc;
+                background: #91b247;
+            }
+
+            th {
+                padding: 8px 16px;
+                border: 1px solid #ccc;
+                background: #597c2b;
+            }
+        </style>
+    </head>
+
+    <body>
+        <div class="tableFixHead">
+            <table>
+                <thead>
+                    <tr>
+                        <th>Startdate</th>
+                        <th>Slutdato</th>
+                        <th>Antal personer</th>
+                        <th>Navn</th>
+                        <th>Telefonnummer</th>
+                        <th>Email</th>
+                        <th>Shelter navn</th>
+                        <th>Slet Booking</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var booking in bookings)
+                    {
+                        <tr>
+                            <td>@booking.startdate.Date.ToString("dd/MM/yyyy")</td>
+                            <td>@booking.slutdate.Date.ToString("dd/MM/yyyy")</td>
+                            <td>@booking.antal_pers</td>
+                            <td>@booking.navn</td>
+                            <td>@booking.telefon</td>
+                            <td>@booking.email</td>
+                            <td>@booking.shelter_navn</td>
+                            <td><button type="button" class="btn btn-outline-danger btn-sm" @onclick="() => deleteControl(booking)">Slet Booking</button></td>
+
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </body>
+}
+
+
+
+    @*<table class="table">
         <thead>
             <tr>
                 <th>Startdate</th>
@@ -46,7 +119,7 @@ else
             }
         </tbody>
     </table>
-}
+}*@
 
 @code {
     private shelter shelly;
@@ -78,7 +151,7 @@ else
 
     protected async Task deleteBooking(Booking book)
     {
-        bool confirmed = await JsRuntime.InvokeAsync<bool>("confirm", "Are you sure?");
+        bool confirmed = await JsRuntime.InvokeAsync<bool>("confirm", "Er du sikker på, at du vil slette bookingen?");
         if (confirmed)
         {
             await Http.DeleteAsync($"Booking/{book._id}");
