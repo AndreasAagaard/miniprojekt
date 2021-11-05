@@ -9,4 +9,3 @@ C:\Users\emili\Desktop\Skole\2Semester\Miniprojekt\blazor\miniprojekt\miniprojek
 C:\Users\emili\Desktop\Skole\2Semester\Miniprojekt\blazor\miniprojekt\miniprojekt\Shared\obj\Debug\net5.0\miniprojekt.Shared.dll
 C:\Users\emili\Desktop\Skole\2Semester\Miniprojekt\blazor\miniprojekt\miniprojekt\Shared\obj\Debug\net5.0\ref\miniprojekt.Shared.dll
 C:\Users\emili\Desktop\Skole\2Semester\Miniprojekt\blazor\miniprojekt\miniprojekt\Shared\obj\Debug\net5.0\miniprojekt.Shared.pdb
-C:\Users\emili\Desktop\Skole\2Semester\Miniprojekt\blazor\miniprojekt\miniprojekt\Shared\obj\Debug\net5.0\miniprojekt.Shared.csproj.AssemblyReference.cache
