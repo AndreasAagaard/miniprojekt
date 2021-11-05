@@ -87,40 +87,6 @@ else
     </body>
 }
 
-
-
-    @*<table class="table">
-        <thead>
-            <tr>
-                <th>Startdate</th>
-                <th>Slutdato</th>
-                <th>Antal personer</th>
-                <th>Navn</th>
-                <th>Telefonnummer</th>
-                <th>Email</th>
-                <th>Shelter navn</th>
-                <th>Slet Booking</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var booking in bookings)
-            {
-                <tr>
-                    <td>@booking.startdate.Date.ToString("dd/MM/yyyy")</td>
-                    <td>@booking.slutdate.Date.ToString("dd/MM/yyyy")</td>
-                    <td>@booking.antal_pers</td>
-                    <td>@booking.navn</td>
-                    <td>@booking.telefon</td>
-                    <td>@booking.email</td>
-                    <td>@booking.shelter_navn</td>
-                    <td><button type="button" class="btn btn-outline-dark btn-sm" @onclick="() => deleteControl(booking)">Slet Booking</button></td>
-
-                </tr>
-            }
-        </tbody>
-    </table>
-}*@
-
 @code {
     private shelter shelly;
     private Booking[] bookings;
@@ -135,12 +101,6 @@ else
     protected override async Task OnInitializedAsync()
     {
         bookings = await Http.GetFromJsonAsync<Booking[]>("Booking");
-    }
-
-    public Task<HttpResponseMessage> postUser(Booking booking)
-    {
-        return Http.PostAsJsonAsync<Booking>("Booking", booking);
-
     }
 
     public async Task getShelter(string id)

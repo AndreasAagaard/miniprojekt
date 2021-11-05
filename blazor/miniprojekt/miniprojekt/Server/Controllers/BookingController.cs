@@ -40,7 +40,7 @@ namespace miniprojekt.Server.Controllers
         [HttpPost]
         public string Post(Booking booking)
         {
-            int antalBooking = _bookingcollection.AsQueryable().Count();
+            int antalBooking = _bookingcollection.AsQueryable().Max(booking => booking.booking_id);
             booking.booking_id = antalBooking + 1;
             _bookingcollection.InsertOneAsync(booking);
 

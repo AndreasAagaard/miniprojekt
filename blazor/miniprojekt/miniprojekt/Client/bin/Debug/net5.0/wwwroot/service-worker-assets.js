@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-wHXGjuQjID89KMOAoJ1XnGMePmbFTG7qLqgqWopzJIQ=",
+      "hash": "sha256-yQcyX4fhOi2vmhEm8xozP1CQNHHm5w4KVvv4kYdTJa8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -821,11 +821,11 @@
       "url": "_framework\/miniprojekt.Shared.pdb"
     },
     {
-      "hash": "sha256-zcFpp98f1Ok9VudJOak4JRbDnSI215uJ5p8xShlvzTM=",
+      "hash": "sha256-V09Gd0i4m+qnqKP3khzT9D3cJKhljLTHz23U8nK9MCM=",
       "url": "_framework\/miniprojekt.Client.dll"
     },
     {
-      "hash": "sha256-O27zzyV1OeExho3QKS2sc19N8G6WOEyioWpWf92p4rk=",
+      "hash": "sha256-pEdxkjcov766ZhZ\/1nigr\/ZRCOuvrEhdXCOURZlXnXg=",
       "url": "_framework\/miniprojekt.Client.pdb"
     },
     {
@@ -1717,5 +1717,5 @@
       "url": "miniprojekt.Client.bundle.scp.css"
     }
   ],
-  "version": "Y0ZM\/rnh"
+  "version": "yIrJbBMi"
 };

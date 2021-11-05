@@ -98,7 +98,7 @@ using miniprojekt.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 124 "C:\Users\emili\Desktop\Skole\2Semester\Miniprojekt\blazor\miniprojekt\miniprojekt\Client\Pages\FetchData.razor"
+#line 90 "C:\Users\emili\Desktop\Skole\2Semester\Miniprojekt\blazor\miniprojekt\miniprojekt\Client\Pages\FetchData.razor"
        
     private shelter shelly;
     private Booking[] bookings;
@@ -113,12 +113,6 @@ using miniprojekt.Shared;
     protected override async Task OnInitializedAsync()
     {
         bookings = await Http.GetFromJsonAsync<Booking[]>("Booking");
-    }
-
-    public Task<HttpResponseMessage> postUser(Booking booking)
-    {
-        return Http.PostAsJsonAsync<Booking>("Booking", booking);
-
     }
 
     public async Task getShelter(string id)
