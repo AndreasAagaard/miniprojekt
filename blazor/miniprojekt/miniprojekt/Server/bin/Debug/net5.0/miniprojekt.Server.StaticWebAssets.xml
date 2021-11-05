@@ -1,11 +1,5 @@
 ﻿<StaticWebAssets Version="1.0">
-<<<<<<< HEAD
   <ContentRoot BasePath="/" Path="C:\Users\emili\Desktop\Skole\2Semester\Miniprojekt\blazor\miniprojekt\miniprojekt\Client\bin\Debug\net5.0\wwwroot\" />
   <ContentRoot BasePath="/" Path="C:\Users\emili\Desktop\Skole\2Semester\Miniprojekt\blazor\miniprojekt\miniprojekt\Client\obj\Debug\net5.0\scopedcss\bundle\" />
   <ContentRoot BasePath="/" Path="C:\Users\emili\Desktop\Skole\2Semester\Miniprojekt\blazor\miniprojekt\miniprojekt\Client\wwwroot\" />
-=======
-  <ContentRoot BasePath="/" Path="C:\Users\linek\Documents\Erhvervsakademi Aarhus\2. semester\Datebasedesign\Miniprojekt_04.11\miniprojekt\blazor\miniprojekt\miniprojekt\Client\bin\Debug\net5.0\wwwroot\" />
-  <ContentRoot BasePath="/" Path="C:\Users\linek\Documents\Erhvervsakademi Aarhus\2. semester\Datebasedesign\Miniprojekt_04.11\miniprojekt\blazor\miniprojekt\miniprojekt\Client\obj\Debug\net5.0\scopedcss\bundle\" />
-  <ContentRoot BasePath="/" Path="C:\Users\linek\Documents\Erhvervsakademi Aarhus\2. semester\Datebasedesign\Miniprojekt_04.11\miniprojekt\blazor\miniprojekt\miniprojekt\Client\wwwroot\" />
->>>>>>> 927f1168cb1d6b556302fc6ab59aee1a90f58f2e
 </StaticWebAssets>

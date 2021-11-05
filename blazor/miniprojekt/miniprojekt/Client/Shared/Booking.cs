@@ -12,8 +12,8 @@ namespace miniprojekt.Client.Shared
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
         public string _id { get; set; }
-        public DateTime startdate { get; set; }
-        public DateTime slutdate { get; set; }
+        public DateTime startdate { get; set; } = DateTime.Now;
+        public DateTime slutdate { get; set; } = DateTime.Now.AddDays(1);
         public int antal_pers { get; set; }
         public string shelter_id { get; set; }
         public string shelter_navn { get; set; }

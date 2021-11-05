@@ -8,7 +8,6 @@ namespace miniprojekt.Client.Pages
 {
     #line hidden
     using System;
-    using System.Collections.Generic;
     using System.Linq;
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
@@ -82,7 +81,42 @@ using miniprojekt.Client.Shared;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/counter")]
+#nullable restore
+#line 1 "C:\Users\emili\Desktop\Skole\2Semester\Miniprojekt\blazor\miniprojekt\miniprojekt\Client\Pages\Counter.razor"
+using System.Collections.Generic;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 2 "C:\Users\emili\Desktop\Skole\2Semester\Miniprojekt\blazor\miniprojekt\miniprojekt\Client\Pages\Counter.razor"
+using miniprojekt.Shared;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 3 "C:\Users\emili\Desktop\Skole\2Semester\Miniprojekt\blazor\miniprojekt\miniprojekt\Client\Pages\Counter.razor"
+using miniprojekt.Client.Components;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 4 "C:\Users\emili\Desktop\Skole\2Semester\Miniprojekt\blazor\miniprojekt\miniprojekt\Client\Pages\Counter.razor"
+using MongoDB.Bson;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 5 "C:\Users\emili\Desktop\Skole\2Semester\Miniprojekt\blazor\miniprojekt\miniprojekt\Client\Pages\Counter.razor"
+using MongoDB.Driver;
+
+#line default
+#line hidden
+#nullable disable
+    [Microsoft.AspNetCore.Components.RouteAttribute("/shelterbooking")]
     public partial class Counter : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -91,18 +125,44 @@ using miniprojekt.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 9 "C:\Users\emili\Desktop\Skole\2Semester\Miniprojekt\blazor\miniprojekt\miniprojekt\Client\Pages\Counter.razor"
+#line 93 "C:\Users\emili\Desktop\Skole\2Semester\Miniprojekt\blazor\miniprojekt\miniprojekt\Client\Pages\Counter.razor"
        
-    private int currentCount = 0;
 
-    private void IncrementCount()
+    private shelter[] shelters;
+
+    public bool BookDialogOpen { get; set; }
+
+    private void OnBookDialogClose(bool accepted)
     {
-        currentCount++;
+        BookDialogOpen = false;
+        StateHasChanged();
+
     }
+
+    private void OpenBookDialog(string id, string navn)
+    {
+
+        BookDialogOpen = true;
+        ModalDialog.testBook.shelter_id = id;
+        ModalDialog.testBook.shelter_navn = navn;
+        StateHasChanged();
+    }
+
+    protected override async Task OnInitializedAsync()
+    {
+        shelters = await Http.GetFromJsonAsync<shelter[]>("Shelter");
+
+    }
+
+
+
+
+
 
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private HttpClient Http { get; set; }
     }
 }
 #pragma warning restore 1591

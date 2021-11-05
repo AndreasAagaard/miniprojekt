@@ -89,7 +89,7 @@ using miniprojekt.Shared;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/fetchdata")]
+    [Microsoft.AspNetCore.Components.RouteAttribute("/bookingoversigt")]
     public partial class FetchData : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
@@ -98,19 +98,51 @@ using miniprojekt.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 38 "C:\Users\emili\Desktop\Skole\2Semester\Miniprojekt\blazor\miniprojekt\miniprojekt\Client\Pages\FetchData.razor"
+#line 124 "C:\Users\emili\Desktop\Skole\2Semester\Miniprojekt\blazor\miniprojekt\miniprojekt\Client\Pages\FetchData.razor"
        
-    private WeatherForecast[] forecasts;
+    private shelter shelly;
+    private Booking[] bookings;
+    public Booking testBook = new() { booking_date = DateTime.Now };
+
+    private async void deleteControl(Booking book)
+    {
+        await deleteBooking(book);
+        uriHelper.NavigateTo(uriHelper.Uri, forceLoad: true);
+    }
 
     protected override async Task OnInitializedAsync()
     {
-        forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("WeatherForecast");
+        bookings = await Http.GetFromJsonAsync<Booking[]>("Booking");
     }
+
+    public Task<HttpResponseMessage> postUser(Booking booking)
+    {
+        return Http.PostAsJsonAsync<Booking>("Booking", booking);
+
+    }
+
+    public async Task getShelter(string id)
+    {
+        shelly = await Http.GetFromJsonAsync<shelter>($"Shelter/{id}");
+
+    }
+
+    protected async Task deleteBooking(Booking book)
+    {
+        bool confirmed = await JsRuntime.InvokeAsync<bool>("confirm", "Er du sikker på, at du vil slette bookingen?");
+        if (confirmed)
+        {
+            await Http.DeleteAsync($"Booking/{book._id}");
+        }
+    }
+
 
 
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private IJSRuntime JsRuntime { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager uriHelper { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private HttpClient Http { get; set; }
     }
 }

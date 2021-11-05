@@ -1798,16 +1798,11 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\emili\\.nuget\\packages\\": {}
-=======
-    "C:\\Users\\linek\\.nuget\\packages\\": {}
->>>>>>> 927f1168cb1d6b556302fc6ab59aee1a90f58f2e
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\emili\\Desktop\\Skole\\2Semester\\Miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Client\\miniprojekt.Client.csproj",
       "projectName": "miniprojekt.Client",
       "projectPath": "C:\\Users\\emili\\Desktop\\Skole\\2Semester\\Miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Client\\miniprojekt.Client.csproj",
@@ -1816,16 +1811,6 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\emili\\AppData\\Roaming\\NuGet\\NuGet.Config",
-=======
-      "projectUniqueName": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt_04.11\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Client\\miniprojekt.Client.csproj",
-      "projectName": "miniprojekt.Client",
-      "projectPath": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt_04.11\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Client\\miniprojekt.Client.csproj",
-      "packagesPath": "C:\\Users\\linek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt_04.11\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Client\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\linek\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 927f1168cb1d6b556302fc6ab59aee1a90f58f2e
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1839,13 +1824,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-<<<<<<< HEAD
             "C:\\Users\\emili\\Desktop\\Skole\\2Semester\\Miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\miniprojekt.Shared.csproj": {
               "projectPath": "C:\\Users\\emili\\Desktop\\Skole\\2Semester\\Miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\miniprojekt.Shared.csproj"
-=======
-            "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt_04.11\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\miniprojekt.Shared.csproj": {
-              "projectPath": "C:\\Users\\linek\\Documents\\Erhvervsakademi Aarhus\\2. semester\\Datebasedesign\\Miniprojekt_04.11\\miniprojekt\\blazor\\miniprojekt\\miniprojekt\\Shared\\miniprojekt.Shared.csproj"
->>>>>>> 927f1168cb1d6b556302fc6ab59aee1a90f58f2e
             }
           }
         }

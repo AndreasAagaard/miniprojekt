@@ -1,11 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-<<<<<<< HEAD
-      "hash": "sha256-e9nUDB6YECN6Yspy59em5laYU0FxlL5jZRZhIb4\/ldc=",
-=======
-      "hash": "sha256-WQre4ANdeVa1+zecRvlJBCYHgcsZiLO8weJcVtMXHRQ=",
->>>>>>> 927f1168cb1d6b556302fc6ab59aee1a90f58f2e
+      "hash": "sha256-wHXGjuQjID89KMOAoJ1XnGMePmbFTG7qLqgqWopzJIQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -817,7 +813,6 @@
       "url": "_framework\/dotnet.5.0.9.js"
     },
     {
-<<<<<<< HEAD
       "hash": "sha256-t9lBwaLamn9pGJXBf47CCG37mG0IyNpwySHj1vrcL5Q=",
       "url": "_framework\/miniprojekt.Shared.dll"
     },
@@ -826,26 +821,11 @@
       "url": "_framework\/miniprojekt.Shared.pdb"
     },
     {
-      "hash": "sha256-c7y7im2XZSY8Px79\/2R2F5\/0UOzb1RdQyz7w0sOqNZw=",
+      "hash": "sha256-zcFpp98f1Ok9VudJOak4JRbDnSI215uJ5p8xShlvzTM=",
       "url": "_framework\/miniprojekt.Client.dll"
     },
     {
-      "hash": "sha256-QVXOJJrF61mjBLUoy+TolxheRAnCNkTsHfTrAuq6SFg=",
-=======
-      "hash": "sha256-yFqjDAA40i3InepdvzT7JJ+xoeNSjPiE47D0J\/yMkkQ=",
-      "url": "_framework\/miniprojekt.Shared.dll"
-    },
-    {
-      "hash": "sha256-C7dyPn8stTCd3LE+unX2rrVJXYARRX523hIsdrbo+oY=",
-      "url": "_framework\/miniprojekt.Shared.pdb"
-    },
-    {
-      "hash": "sha256-P2KB8ZKxRzuJNmwhOE8V4wRulY0bD2fY3WSOSEwjJ2k=",
-      "url": "_framework\/miniprojekt.Client.dll"
-    },
-    {
-      "hash": "sha256-isaad7OY6HlYAcmQv5fzNAx6QLi+zs2No\/rQAzmAd6Y=",
->>>>>>> 927f1168cb1d6b556302fc6ab59aee1a90f58f2e
+      "hash": "sha256-O27zzyV1OeExho3QKS2sc19N8G6WOEyioWpWf92p4rk=",
       "url": "_framework\/miniprojekt.Client.pdb"
     },
     {
@@ -1661,19 +1641,11 @@
       "url": "_framework\/dotnet.5.0.9.js.gz"
     },
     {
-<<<<<<< HEAD
       "hash": "sha256-N2OnN5Yn0SYf9xV3HeKiavT20pnN\/Nd8CvcxaT3smYk=",
       "url": "_framework\/miniprojekt.Shared.dll.gz"
     },
     {
-      "hash": "sha256-nuY3ZNkw1mQZvdecBi2xepk1M1QicXC+lgJa5OctF0k=",
-=======
-      "hash": "sha256-ezWV2YIPgJIyn8z1OSYC93IBtLDkcy5gEh1rFTDrQ34=",
-      "url": "_framework\/miniprojekt.Shared.dll.gz"
-    },
-    {
       "hash": "sha256-d0D2kfoD84Z54c3qGQJ2k\/achZpO71a7x2PscG9tyEA=",
->>>>>>> 927f1168cb1d6b556302fc6ab59aee1a90f58f2e
       "url": "css\/app.css"
     },
     {
@@ -1737,17 +1709,6 @@
       "url": "manifest.json"
     },
     {
-<<<<<<< HEAD
-      "hash": "sha256-rPmQ4geEZx0AzgcjXjrE5+dSWLZN4yGfyIZQOOaTSqw=",
-      "url": "miniprojekt.Client.styles.css"
-    },
-    {
-      "hash": "sha256-7jqX98Ck+oT6DKuNqORA39YU9eMBE8Bwdut8u+Susvo=",
-      "url": "miniprojekt.Client.bundle.scp.css"
-    }
-  ],
-  "version": "0FaO13v2"
-=======
       "hash": "sha256-fmiP\/zjAeBHaY7C5+5yIm90Q1j1Tv9jHC4M1FZNYZMM=",
       "url": "miniprojekt.Client.styles.css"
     },
@@ -1756,6 +1717,5 @@
       "url": "miniprojekt.Client.bundle.scp.css"
     }
   ],
-  "version": "s8z6n55L"
->>>>>>> 927f1168cb1d6b556302fc6ab59aee1a90f58f2e
+  "version": "Y0ZM\/rnh"
 };
